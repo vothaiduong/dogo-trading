@@ -1,0 +1,409 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dogo Corporation 1.1.0\n"
+"Report-Msgid-Bugs-To: contact@dogo-trading.com\n"
+"POT-Creation-Date: 2026-04-27 00:00+0000\n"
+"PO-Revision-Date: 2026-04-27 00:00+0000\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Domain: dogo-corporation\n"
+
+# === ナビゲーション ===
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+msgid "Footer Menu"
+msgstr "フッターメニュー"
+
+msgid "Social Links"
+msgstr "ソーシャルリンク"
+
+msgid "Footer Widgets"
+msgstr "フッターウィジェット"
+
+msgid "Widgets shown in the footer columns."
+msgstr "フッター列に表示されるウィジェットです。"
+
+msgid "Skip to content"
+msgstr "本文へスキップ"
+
+msgid "Primary"
+msgstr "メイン"
+
+msgid "Open menu"
+msgstr "メニューを開く"
+
+msgid "Toggle color theme"
+msgstr "テーマを切り替え"
+
+msgid "Language"
+msgstr "言語"
+
+msgid "Contact"
+msgstr "お問い合わせ"
+
+msgid "About"
+msgstr "会社案内"
+
+msgid "Services"
+msgstr "サービス"
+
+msgid "Our Work"
+msgstr "事業領域"
+
+msgid "Why Dogo"
+msgstr "Dogo の強み"
+
+msgid "Search"
+msgstr "検索"
+
+msgid "Search…"
+msgstr "検索…"
+
+# === ヒーロー ===
+msgid "Now serving 200,000+ customers worldwide"
+msgstr "おかげさまで、世界 20 万人以上のお客様にご愛顧いただいています"
+
+msgid "Shaping excellence"
+msgstr "越境 EC の卓越性を、"
+
+msgid "in cross-border eCommerce."
+msgstr "かたちに。"
+
+msgid "Dogo Corporation is the global gateway to authentic Japanese products — connecting collectors, beauty enthusiasts and home chefs to over 300,000 verified items, backed by 20+ years of trade expertise."
+msgstr "Dogo Corporation は、本物の日本製品を世界へ届けるグローバルゲートウェイです。20 年を超える貿易実績を背景に、コレクター、美容愛好家、料理愛好家のもとへ、厳選 30 万点以上の正規アイテムをお届けしています。"
+
+msgid "Explore services"
+msgstr "サービスを見る"
+
+msgid "About Dogo"
+msgstr "Dogo について"
+
+msgid "Authentic-only sourcing"
+msgstr "正規品のみを取扱い"
+
+msgid "Worldwide fulfilment"
+msgstr "世界中へお届け"
+
+msgid "EN · VI · 日本語"
+msgstr "EN ・ VI ・ 日本語"
+
+msgid "Limited figurine — Tokyo"
+msgstr "限定フィギュア / 東京"
+
+msgid "Premium skincare set"
+msgstr "プレミアム スキンケア セット"
+
+msgid "Hand-forged Santoku"
+msgstr "鍛造三徳包丁"
+
+msgid "Yahoo Auctions sourcing"
+msgstr "ヤフオク代行"
+
+msgid "Verified · shipped today"
+msgstr "認証済 ・ 本日発送"
+
+msgid "Live"
+msgstr "稼働中"
+
+msgid "cross-border volume MoM"
+msgstr "越境取引高 前月比"
+
+# === スタッツ ===
+msgid "Key metrics"
+msgstr "主要指標"
+
+msgid "Years of cross-border trade"
+msgstr "年の越境取引実績"
+
+msgid "Satisfied customers worldwide"
+msgstr "ご利用のお客様"
+
+msgid "Authentic Japanese products"
+msgstr "正規日本製品の取扱数"
+
+msgid "Specialized service lines"
+msgstr "専門事業ライン"
+
+# === サービス ===
+msgid "What we do"
+msgstr "事業内容"
+
+msgid "Four specialized lines."
+msgstr "4 つの専門事業。"
+
+msgid "One trusted gateway."
+msgstr "ひとつの信頼の窓口。"
+
+msgid "Each service is purpose-built for a community that values authenticity. Powered by 20+ years of cross-border trade infrastructure."
+msgstr "それぞれのサービスは、本物を求めるコミュニティのためにつくられています。20 年以上にわたり築き上げた越境 EC インフラに支えられています。"
+
+msgid "Collectibles & Figurines"
+msgstr "コレクティブル & フィギュア"
+
+msgid "From trading cards to figurines and plush toys — every collectible is verified authentic, reflecting the soul of Japanese craftsmanship."
+msgstr "トレーディングカードからフィギュア、ぬいぐるみまで。日本のものづくりの精神を映す、正規品認証済みのコレクティブルをお届けします。"
+
+msgid "Authentic figurines & art books"
+msgstr "正規フィギュア・アートブック"
+
+msgid "Trading cards and video games"
+msgstr "トレーディングカード・ビデオゲーム"
+
+msgid "Worldwide collector network"
+msgstr "世界規模のコレクターネットワーク"
+
+msgid "Beauty & Personal Care"
+msgstr "ビューティー & パーソナルケア"
+
+msgid "Authorized distributor of leading Japanese beauty brands — skincare, cosmetics, body care and supplements that meet Japan's rigorous standards."
+msgstr "日本を代表するビューティーブランドの正規取扱店として、日本基準を満たすスキンケア、コスメ、ボディケア、サプリメントをお届けします。"
+
+msgid "Skincare, haircare & cosmetics"
+msgstr "スキンケア・ヘアケア・コスメ"
+
+msgid "Body care & supplements"
+msgstr "ボディケア・サプリメント"
+
+msgid "Official brand partnerships"
+msgstr "公式ブランドパートナーシップ"
+
+msgid "Kitchenware"
+msgstr "キッチンウェア"
+
+msgid "A curated kitchenware collection bringing Japanese culinary heritage to global tables — from precision knives to time-honored cookware."
+msgstr "日本の食文化を世界の食卓へ。精緻な包丁から伝統の調理器具まで、厳選したキッチンコレクションをお届けします。"
+
+msgid "Hand-forged knives & cutlery"
+msgstr "鍛造包丁・カトラリー"
+
+msgid "Cookware, sinks & food storage"
+msgstr "調理器具・シンク・保存容器"
+
+msgid "Heritage culinary tools"
+msgstr "伝統の調理道具"
+
+msgid "Purchase Agency"
+msgstr "購入代行"
+
+msgid "Your bridge to Japan's domestic marketplace. We source hard-to-find products from Amazon JP, Yahoo Auctions, Rakuma and Mercari."
+msgstr "日本国内マーケットへの架け橋。Amazon JP、ヤフオク、ラクマ、メルカリから入手困難な商品を、確かな目で調達します。"
+
+msgid "Amazon JP, Yahoo Auctions, Mercari, Rakuma"
+msgstr "Amazon JP・ヤフオク・メルカリ・ラクマ"
+
+msgid "Authentication & secure shipping"
+msgstr "真贋確認と安心配送"
+
+msgid "Multi-language concierge support"
+msgstr "多言語コンシェルジュサポート"
+
+msgid "Discuss this line"
+msgstr "この事業について相談する"
+
+# === 会社案内 ===
+msgid "Built around a single belief:"
+msgstr "ひとつの信念から、始まりました。"
+
+msgid "authenticity scales globally."
+msgstr "本物は、世界に届く。"
+
+msgid "For two decades, Dogo Corporation has bridged Japanese makers and global buyers — first as a domestic distributor, today as a full cross-border eCommerce operator across collectibles, beauty, kitchenware and proxy procurement."
+msgstr "Dogo Corporation は 20 年にわたり、日本のメーカーと世界のお客様をつないでまいりました。国内流通から始まり、いまではコレクティブル、ビューティー、キッチンウェア、購入代行までを担う越境 EC 事業者へと進化しています。"
+
+msgid "Our infrastructure handles sourcing, verification, multi-language support and global fulfilment, so partners can focus on what matters: bringing the very best of Japan to the world."
+msgstr "調達、真贋確認、多言語サポート、グローバル配送までを当社のインフラが一気通貫で担います。パートナーの皆様には、日本の最良を世界へ届けるという本質に専念いただけます。"
+
+msgid "Mission"
+msgstr "ミッション"
+
+msgid "Make authentic Japanese products accessible to every buyer, in every language, on every continent."
+msgstr "本物の日本製品を、あらゆる言語で、世界のすべての地域のお客様へ。"
+
+msgid "Promise"
+msgstr "お約束"
+
+msgid "100% verified inventory · official brand partnerships · transparent logistics."
+msgstr "100% 認証済み在庫 ・ 公式ブランドパートナー ・ 透明な物流。"
+
+msgid "Reach"
+msgstr "対応エリア"
+
+msgid "Headquarters in Japan · customers across Asia, Americas and Europe."
+msgstr "本社は日本 ・ アジア、北米、欧州のお客様にお届け。"
+
+msgid "Dogo Corporation operations"
+msgstr "Dogo Corporation のオペレーション"
+
+msgid "Dogo team and warehouse"
+msgstr "Dogo チームと倉庫"
+
+# === 取り組み ===
+msgid "A complete"
+msgstr "越境 EC を動かす、"
+
+msgid "cross-border operating system."
+msgstr "完全なオペレーティングシステム。"
+
+msgid "Six capabilities that compound — sourcing, logistics, commerce, support, partnerships, compliance."
+msgstr "互いに高め合う 6 つの強み — 調達、物流、商取引、サポート、パートナーシップ、コンプライアンス。"
+
+msgid "Direct relationships with Japanese brands and verified resellers — every item ships with provenance."
+msgstr "日本ブランドおよび認証済みリセラーとの直接取引。お届けするすべての商品に、出所の確かさを。"
+
+msgid "Cross-border logistics"
+msgstr "越境ロジスティクス"
+
+msgid "Consolidated warehousing, customs handling and tracked international fulfilment to 60+ countries."
+msgstr "集約倉庫・通関対応・追跡可能な国際配送で、60 か国以上へ確実にお届けします。"
+
+msgid "Multi-channel commerce"
+msgstr "マルチチャネル販売"
+
+msgid "Storefronts, marketplaces and proxy bidding across Amazon JP, Yahoo Auctions, Mercari and Rakuma."
+msgstr "ストアフロント、マーケットプレイス、代行入札を Amazon JP、ヤフオク、メルカリ、ラクマで展開しています。"
+
+msgid "Native-language concierge"
+msgstr "ネイティブ言語コンシェルジュ"
+
+msgid "Bilingual support team handles negotiation, translation, payment and post-sale care."
+msgstr "バイリンガルチームが、交渉から翻訳、決済、アフターサポートまで一貫して対応いたします。"
+
+msgid "Brand partnerships"
+msgstr "ブランドパートナーシップ"
+
+msgid "Authorized distributor for leading Japanese beauty, kitchen and collectible labels."
+msgstr "日本を代表するビューティー、キッチン、コレクティブルブランドの正規取扱店です。"
+
+msgid "Quality & compliance"
+msgstr "品質とコンプライアンス"
+
+msgid "Inspection workflows aligned with destination-market regulations and customer-protection standards."
+msgstr "仕向地の規制と消費者保護基準に整合した検品ワークフローを構築しています。"
+
+# === CTA ===
+msgid "Call to action"
+msgstr "ご案内"
+
+msgid "Ready to source from Japan,"
+msgstr "日本からの仕入れを、"
+
+msgid "the right way?"
+msgstr "確かな方法で。"
+
+msgid "Talk to a Dogo specialist about wholesale, retail, proxy or partnership opportunities. We respond within one business day."
+msgstr "卸売・小売・購入代行・パートナーシップについて、Dogo の専門スタッフがご相談を承ります。1 営業日以内にご返信いたします。"
+
+msgid "Start a conversation"
+msgstr "ご相談をはじめる"
+
+msgid "See services"
+msgstr "サービスを見る"
+
+# === お問い合わせ ===
+msgid "Let's talk about your"
+msgstr "次の越境 EC の一手、"
+
+msgid "next cross-border move."
+msgstr "ご一緒に。"
+
+msgid "Wholesale buyers, brand partners and proxy customers — we'd love to hear from you."
+msgstr "卸売バイヤー様、ブランドパートナー様、購入代行のお客様。お気軽にご連絡ください。"
+
+msgid "Email"
+msgstr "メールアドレス"
+
+msgid "Headquarters"
+msgstr "本社所在地"
+
+msgid "Tokyo, Japan"
+msgstr "日本、東京"
+
+msgid "Languages"
+msgstr "対応言語"
+
+msgid "English · Tiếng Việt · 日本語"
+msgstr "English ・ Tiếng Việt ・ 日本語"
+
+msgid "Name"
+msgstr "お名前"
+
+msgid "Company"
+msgstr "貴社名"
+
+msgid "I'm interested in"
+msgstr "ご関心のある分野"
+
+msgid "Partnership / wholesale"
+msgstr "パートナーシップ・卸売"
+
+msgid "Message"
+msgstr "お問い合わせ内容"
+
+msgid "Send message"
+msgstr "送信する"
+
+msgid "We respond within one business day."
+msgstr "1 営業日以内にご返信いたします。"
+
+# === フッター ===
+msgid "Shaping excellence in cross-border eCommerce. Authentic Japanese products, delivered worldwide."
+msgstr "越境 EC の卓越性を、かたちに。本物の日本製品を、世界中のお客様へお届けしています。"
+
+msgid "Get in touch"
+msgstr "お問い合わせ"
+
+msgid "Legal"
+msgstr "規約・ポリシー"
+
+msgid "Privacy Policy"
+msgstr "プライバシーポリシー"
+
+msgid "Terms"
+msgstr "利用規約"
+
+msgid "About us"
+msgstr "会社案内"
+
+msgid "Our work"
+msgstr "事業領域"
+
+msgid "All rights reserved."
+msgstr "All rights reserved."
+
+msgid "Crafted for cross-border excellence."
+msgstr "越境 EC の卓越のために。"
+
+msgid "Back to top"
+msgstr "トップへ戻る"
+
+# === その他 ===
+msgid "Journal"
+msgstr "ジャーナル"
+
+msgid "Read more"
+msgstr "続きを読む"
+
+msgid "« Previous"
+msgstr "« 前のページ"
+
+msgid "Next »"
+msgstr "次のページ »"
+
+msgid "Nothing here yet."
+msgstr "まだ投稿はありません。"
+
+msgid "Error 404"
+msgstr "エラー 404"
+
+msgid "Page not found"
+msgstr "ページが見つかりません"
+
+msgid "The page you were looking for doesn't exist or has been moved."
+msgstr "お探しのページは存在しないか、移動された可能性があります。"
+
+msgid "Back to home"
+msgstr "ホームへ戻る"

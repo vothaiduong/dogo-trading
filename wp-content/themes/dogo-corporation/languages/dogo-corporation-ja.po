@@ -1,0 +1,714 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dogo Corporation 1.1.0\n"
+"Report-Msgid-Bugs-To: contact@dogo-trading.com\n"
+"POT-Creation-Date: 2026-04-27 00:00+0000\n"
+"PO-Revision-Date: 2026-04-27 00:00+0000\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Domain: dogo-corporation\n"
+
+# === ナビゲーション ===
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+msgid "Footer Menu"
+msgstr "フッターメニュー"
+
+msgid "Social Links"
+msgstr "ソーシャルリンク"
+
+msgid "Footer Widgets"
+msgstr "フッターウィジェット"
+
+msgid "Widgets shown in the footer columns."
+msgstr "フッター列に表示されるウィジェットです。"
+
+msgid "Skip to content"
+msgstr "本文へスキップ"
+
+msgid "Primary"
+msgstr "メイン"
+
+msgid "Open menu"
+msgstr "メニューを開く"
+
+msgid "Toggle color theme"
+msgstr "テーマを切り替え"
+
+msgid "Language"
+msgstr "言語"
+
+msgid "Contact"
+msgstr "お問い合わせ"
+
+msgid "About"
+msgstr "会社案内"
+
+msgid "Services"
+msgstr "サービス"
+
+msgid "Our Work"
+msgstr "事業領域"
+
+msgid "Why Dogo"
+msgstr "Dogo の強み"
+
+msgid "Search"
+msgstr "検索"
+
+msgid "Search…"
+msgstr "検索…"
+
+# === ヒーロー ===
+msgid "Now serving 1,000,000+ customers worldwide"
+msgstr "おかげさまで、世界 100 万人以上のお客様にご愛顧いただいています"
+
+msgid "Shaping excellence"
+msgstr "越境 EC の卓越性を、"
+
+msgid "in cross-border eCommerce."
+msgstr "かたちに。"
+
+msgid "Dogo Corporation is the global gateway to authentic Japanese products — connecting collectors, beauty enthusiasts and home chefs across 180+ countries, with over 3 million items shipped since 2020."
+msgstr "Dogo Corporation は、本物の日本製品を世界へ届けるグローバルゲートウェイです。2020 年の創業以来、180 か国以上のコレクター、美容愛好家、料理愛好家のもとへ、これまでに 300 万点を超える正規アイテムをお届けしてきました。"
+
+msgid "Explore services"
+msgstr "サービスを見る"
+
+msgid "About Dogo"
+msgstr "Dogo について"
+
+msgid "Authentic-only sourcing"
+msgstr "正規品のみを取扱い"
+
+msgid "Worldwide fulfilment"
+msgstr "世界中へお届け"
+
+msgid "EN · VI · 日本語"
+msgstr "EN ・ VI ・ 日本語"
+
+msgid "Limited figurine"
+msgstr "限定フィギュア"
+
+msgid "Premium skincare set"
+msgstr "プレミアム スキンケア セット"
+
+msgid "Hand-forged Santoku"
+msgstr "鍛造三徳包丁"
+
+msgid "Yahoo Auctions sourcing"
+msgstr "ヤフオク代行"
+
+msgid "Verified · shipped today"
+msgstr "認証済 ・ 本日発送"
+
+msgid "Live"
+msgstr "稼働中"
+
+msgid "cross-border volume MoM"
+msgstr "越境取引高 前月比"
+
+# === スタッツ ===
+msgid "Key metrics"
+msgstr "主要指標"
+
+msgid "Founded"
+msgstr "創業"
+
+msgid "Customers worldwide"
+msgstr "世界のお客様"
+
+msgid "Products shipped"
+msgstr "お届けした商品数"
+
+msgid "Countries delivered"
+msgstr "対応国数"
+
+# === サービス ===
+msgid "What we do"
+msgstr "事業内容"
+
+msgid "Four specialized lines."
+msgstr "4 つの専門事業。"
+
+msgid "One trusted gateway."
+msgstr "ひとつの信頼の窓口。"
+
+msgid "Each service is purpose-built for a community that values authenticity. Powered by cross-border trade infrastructure proven since 2020."
+msgstr "それぞれのサービスは、本物を求めるコミュニティのためにつくられています。2020 年から築き上げてきた越境 EC インフラに支えられています。"
+
+msgid "Collectibles & Figurines"
+msgstr "コレクティブル & フィギュア"
+
+msgid "From trading cards to figurines and plush toys — every collectible is verified authentic, reflecting the soul of Japanese craftsmanship."
+msgstr "トレーディングカードからフィギュア、ぬいぐるみまで。日本のものづくりの精神を映す、正規品認証済みのコレクティブルをお届けします。"
+
+msgid "Authentic figurines & art books"
+msgstr "正規フィギュア・アートブック"
+
+msgid "Trading cards and video games"
+msgstr "トレーディングカード・ビデオゲーム"
+
+msgid "Worldwide collector network"
+msgstr "世界規模のコレクターネットワーク"
+
+msgid "Beauty & Personal Care"
+msgstr "ビューティー & パーソナルケア"
+
+msgid "Authorized distributor of leading Japanese beauty brands — skincare, cosmetics, body care and supplements that meet Japan's rigorous standards."
+msgstr "日本を代表するビューティーブランドの正規取扱店として、日本基準を満たすスキンケア、コスメ、ボディケア、サプリメントをお届けします。"
+
+msgid "Skincare, haircare & cosmetics"
+msgstr "スキンケア・ヘアケア・コスメ"
+
+msgid "Body care & supplements"
+msgstr "ボディケア・サプリメント"
+
+msgid "Official brand partnerships"
+msgstr "公式ブランドパートナーシップ"
+
+msgid "Kitchenware"
+msgstr "キッチンウェア"
+
+msgid "A curated kitchenware collection bringing Japanese culinary heritage to global tables — from precision knives to time-honored cookware."
+msgstr "日本の食文化を世界の食卓へ。精緻な包丁から伝統の調理器具まで、厳選したキッチンコレクションをお届けします。"
+
+msgid "Hand-forged knives & cutlery"
+msgstr "鍛造包丁・カトラリー"
+
+msgid "Cookware, sinks & food storage"
+msgstr "調理器具・シンク・保存容器"
+
+msgid "Heritage culinary tools"
+msgstr "伝統の調理道具"
+
+msgid "Purchase Agency"
+msgstr "購入代行"
+
+msgid "Your bridge to Japan's domestic marketplace. We source hard-to-find products from Amazon JP, Yahoo Auctions, Rakuma and Mercari."
+msgstr "日本国内マーケットへの架け橋。Amazon JP、ヤフオク、ラクマ、メルカリから入手困難な商品を、確かな目で調達します。"
+
+msgid "Amazon JP, Yahoo Auctions, Mercari, Rakuma"
+msgstr "Amazon JP・ヤフオク・メルカリ・ラクマ"
+
+msgid "Authentication & secure shipping"
+msgstr "真贋確認と安心配送"
+
+msgid "Multi-language concierge support"
+msgstr "多言語コンシェルジュサポート"
+
+msgid "Discuss this line"
+msgstr "この事業について相談する"
+
+# === 会社案内 ===
+msgid "Built around a single belief:"
+msgstr "ひとつの信念から、始まりました。"
+
+msgid "authenticity scales globally."
+msgstr "本物は、世界に届く。"
+
+msgid "Since 2020, Dogo Corporation has bridged Japanese makers and global buyers — operating as a full cross-border eCommerce specialist across collectibles, beauty, kitchenware and proxy procurement."
+msgstr "2020 年の創業以来、Dogo Corporation は日本のメーカーと世界のお客様をつないでまいりました。コレクティブル、ビューティー、キッチンウェア、購入代行までを担う越境 EC スペシャリストとして事業を展開しています。"
+
+msgid "Our infrastructure handles sourcing, verification, multi-language support and global fulfilment, so partners can focus on what matters: bringing the very best of Japan to the world."
+msgstr "調達、真贋確認、多言語サポート、グローバル配送までを当社のインフラが一気通貫で担います。パートナーの皆様には、日本の最良を世界へ届けるという本質に専念いただけます。"
+
+msgid "Mission"
+msgstr "ミッション"
+
+msgid "Make authentic Japanese products accessible to every buyer, in every language, on every continent."
+msgstr "本物の日本製品を、あらゆる言語で、世界のすべての地域のお客様へ。"
+
+msgid "Promise"
+msgstr "お約束"
+
+msgid "100% verified inventory · official brand partnerships · transparent logistics."
+msgstr "100% 認証済み在庫 ・ 公式ブランドパートナー ・ 透明な物流。"
+
+msgid "Reach"
+msgstr "対応エリア"
+
+msgid "Headquarters in Fukuoka · shipping to 180+ countries worldwide."
+msgstr "本社は福岡 ・ 世界 180 か国以上へお届け。"
+
+msgid "Dogo Corporation operations"
+msgstr "Dogo Corporation のオペレーション"
+
+msgid "Dogo team and warehouse"
+msgstr "Dogo チームと倉庫"
+
+# === 取り組み ===
+msgid "A complete"
+msgstr "越境 EC を動かす、"
+
+msgid "cross-border operating system."
+msgstr "完全なオペレーティングシステム。"
+
+msgid "Six capabilities that compound — sourcing, logistics, commerce, support, partnerships, compliance."
+msgstr "互いに高め合う 6 つの強み — 調達、物流、商取引、サポート、パートナーシップ、コンプライアンス。"
+
+msgid "Direct relationships with Japanese brands and verified resellers — every item ships with provenance."
+msgstr "日本ブランドおよび認証済みリセラーとの直接取引。お届けするすべての商品に、出所の確かさを。"
+
+msgid "Cross-border logistics"
+msgstr "越境ロジスティクス"
+
+msgid "Consolidated warehousing, customs handling and tracked international fulfilment to 180+ countries."
+msgstr "集約倉庫・通関対応・追跡可能な国際配送で、180 か国以上へ確実にお届けします。"
+
+msgid "Multi-channel commerce"
+msgstr "マルチチャネル販売"
+
+msgid "Storefronts, marketplaces and proxy bidding across Amazon JP, Yahoo Auctions, Mercari and Rakuma."
+msgstr "ストアフロント、マーケットプレイス、代行入札を Amazon JP、ヤフオク、メルカリ、ラクマで展開しています。"
+
+msgid "Native-language concierge"
+msgstr "ネイティブ言語コンシェルジュ"
+
+msgid "Bilingual support team handles negotiation, translation, payment and post-sale care."
+msgstr "バイリンガルチームが、交渉から翻訳、決済、アフターサポートまで一貫して対応いたします。"
+
+msgid "Brand partnerships"
+msgstr "ブランドパートナーシップ"
+
+msgid "Authorized distributor for leading Japanese beauty, kitchen and collectible labels."
+msgstr "日本を代表するビューティー、キッチン、コレクティブルブランドの正規取扱店です。"
+
+msgid "Quality & compliance"
+msgstr "品質とコンプライアンス"
+
+msgid "Inspection workflows aligned with destination-market regulations and customer-protection standards."
+msgstr "仕向地の規制と消費者保護基準に整合した検品ワークフローを構築しています。"
+
+# === CTA ===
+msgid "Call to action"
+msgstr "ご案内"
+
+msgid "Ready to source from Japan,"
+msgstr "日本からの仕入れを、"
+
+msgid "the right way?"
+msgstr "確かな方法で。"
+
+msgid "Talk to a Dogo specialist about wholesale, retail, proxy or partnership opportunities. We respond within one business day."
+msgstr "卸売・小売・購入代行・パートナーシップについて、Dogo の専門スタッフがご相談を承ります。1 営業日以内にご返信いたします。"
+
+msgid "Start a conversation"
+msgstr "ご相談をはじめる"
+
+msgid "See services"
+msgstr "サービスを見る"
+
+# === お問い合わせ ===
+msgid "Let's talk about your"
+msgstr "次の越境 EC の一手、"
+
+msgid "next cross-border move."
+msgstr "ご一緒に。"
+
+msgid "Wholesale buyers, brand partners and proxy customers — we'd love to hear from you."
+msgstr "卸売バイヤー様、ブランドパートナー様、購入代行のお客様。お気軽にご連絡ください。"
+
+msgid "Email"
+msgstr "メールアドレス"
+
+msgid "Headquarters"
+msgstr "本社所在地"
+
+msgid "Fukuoka, Japan"
+msgstr "日本、福岡"
+
+msgid "Address"
+msgstr "住所"
+
+msgid "2-2-26 Yutaka, Hakata-ku, Fukuoka"
+msgstr "福岡県福岡市博多区豊 2-2-26"
+
+msgid "Open in Google Maps"
+msgstr "Google マップで開く"
+
+msgid "Map to Dogo Corporation headquarters"
+msgstr "Dogo Corporation 本社の地図"
+
+msgid "Languages"
+msgstr "対応言語"
+
+msgid "English · Tiếng Việt · 日本語"
+msgstr "English ・ Tiếng Việt ・ 日本語"
+
+msgid "Name"
+msgstr "お名前"
+
+msgid "Company"
+msgstr "会社"
+
+msgid "Your company"
+msgstr "貴社名"
+
+msgid "I'm interested in"
+msgstr "ご関心のある分野"
+
+msgid "Partnership / wholesale"
+msgstr "パートナーシップ・卸売"
+
+msgid "Message"
+msgstr "お問い合わせ内容"
+
+msgid "Send message"
+msgstr "送信する"
+
+msgid "We respond within one business day."
+msgstr "1 営業日以内にご返信いたします。"
+
+# === フッター ===
+msgid "Shaping excellence in cross-border eCommerce. Authentic Japanese products, delivered worldwide."
+msgstr "越境 EC の卓越性を、かたちに。本物の日本製品を、世界中のお客様へお届けしています。"
+
+msgid "Get in touch"
+msgstr "お問い合わせ"
+
+msgid "Legal"
+msgstr "規約・ポリシー"
+
+msgid "Privacy Policy"
+msgstr "プライバシーポリシー"
+
+msgid "Terms"
+msgstr "利用規約"
+
+msgid "About us"
+msgstr "会社案内"
+
+msgid "Our work"
+msgstr "事業領域"
+
+msgid "All rights reserved."
+msgstr "All rights reserved."
+
+msgid "Crafted for cross-border excellence."
+msgstr "越境 EC の卓越のために。"
+
+msgid "Back to top"
+msgstr "トップへ戻る"
+
+# === その他 ===
+msgid "Journal"
+msgstr "ジャーナル"
+
+msgid "Read more"
+msgstr "続きを読む"
+
+msgid "« Previous"
+msgstr "« 前のページ"
+
+msgid "Next »"
+msgstr "次のページ »"
+
+msgid "Nothing here yet."
+msgstr "まだ投稿はありません。"
+
+msgid "Error 404"
+msgstr "エラー 404"
+
+msgid "Page not found"
+msgstr "ページが見つかりません"
+
+msgid "The page you were looking for doesn't exist or has been moved."
+msgstr "お探しのページは存在しないか、移動された可能性があります。"
+
+msgid "Back to home"
+msgstr "ホームへ戻る"
+
+# === 会社概要 ===
+msgid "Company profile"
+msgstr "会社概要"
+
+msgid "TBD"
+msgstr "未記入"
+
+msgid "Trade name"
+msgstr "商号"
+
+msgid "Representative"
+msgstr "代表者"
+
+msgid "Capital"
+msgstr "資本金"
+
+msgid "Corporate number"
+msgstr "法人番号"
+
+msgid "Employees"
+msgstr "従業員数"
+
+msgid "Business hours"
+msgstr "営業時間"
+
+msgid "Lines of business"
+msgstr "事業内容"
+
+msgid "Phone"
+msgstr "電話番号"
+
+msgid "Website"
+msgstr "ウェブサイト"
+
+msgid "Bank account"
+msgstr "振込先口座"
+
+msgid "For wholesale and B2B partners — please contact us before sending payment."
+msgstr "卸売・法人パートナー様向け。お振込前に必ずご連絡ください。"
+
+msgid "Bank"
+msgstr "金融機関"
+
+msgid "Branch"
+msgstr "支店"
+
+msgid "Account type"
+msgstr "預金種目"
+
+msgid "Account number"
+msgstr "口座番号"
+
+msgid "Account holder"
+msgstr "口座名義"
+
+msgid "Contact our team"
+msgstr "お問い合わせはこちら"
+
+msgid "Weekdays 9:00 – 18:00 JST (closed weekends and Japanese national holidays)"
+msgstr "平日 9:00 〜 18:00 JST（土日祝休）"
+
+msgid "Cross-border eCommerce: collectibles, beauty, kitchenware and Japan purchase agency."
+msgstr "越境 EC 事業:コレクティブル、ビューティー、キッチンウェア、購入代行。"
+
+# === プライバシーポリシー ===
+msgid "%s (\"the Company\") values the privacy of every visitor and customer. This policy explains what personal information we collect, how we use it, and the choices you have."
+msgstr "%s(以下「当社」といいます)は、サイトをご利用いただくすべての方のプライバシーを尊重しております。本ポリシーでは、当社が取得する個人情報の内容、利用目的、お客様の権利についてご説明します。"
+
+msgid "1. Information we collect"
+msgstr "1. 取得する情報"
+
+msgid "When you contact us, place an order, or use our services, we may collect: your name, company name, email address, phone number, shipping/billing address, payment information, and the content of your inquiries. We also collect technical data automatically (IP address, browser type, referring URL, pages visited, timestamps) for security and analytics."
+msgstr "お問い合わせ、ご注文、サービスのご利用にあたり、お名前、会社名、メールアドレス、電話番号、配送先・請求先住所、支払情報、お問い合わせ内容を取得することがあります。また、セキュリティおよび利用状況の分析を目的として、IP アドレス、ブラウザ種別、リファラー、閲覧ページ、アクセス日時などの技術情報を自動的に取得します。"
+
+msgid "2. Purpose of use"
+msgstr "2. 利用目的"
+
+msgid "Responding to inquiries and providing requested services"
+msgstr "お問い合わせへの対応およびご依頼サービスのご提供"
+
+msgid "Processing orders, payments and shipments"
+msgstr "ご注文、決済、配送の処理"
+
+msgid "Cross-border customs handling and partner communication"
+msgstr "越境通関手続およびパートナー企業との連絡"
+
+msgid "Customer support, after-sales service and dispute resolution"
+msgstr "カスタマーサポート、アフターサービス、紛争対応"
+
+msgid "Service improvement, fraud prevention and legal compliance"
+msgstr "サービス改善、不正防止、法令遵守"
+
+msgid "Marketing communications, only with your prior consent"
+msgstr "事前の同意をいただいた場合のみ行うマーケティング目的の通知"
+
+msgid "3. Disclosure to third parties"
+msgstr "3. 第三者への提供"
+
+msgid "We do not sell your personal information. We may share necessary data with: payment processors, shipping/customs partners, manufacturer or marketplace partners required to fulfil your order, and authorities when required by law. All partners are bound by confidentiality obligations consistent with this policy."
+msgstr "当社はお客様の個人情報を販売いたしません。ただし、決済代行会社、配送・通関業者、ご注文の履行に必要なメーカーまたはマーケットプレイスパートナー、法令に基づく当局への開示が必要な場合に限り、必要な情報を共有することがあります。すべての委託先は本ポリシーと同等の守秘義務を負います。"
+
+msgid "4. Outsourcing & sub-processors"
+msgstr "4. 業務委託・再委託"
+
+msgid "We may entrust limited processing (hosting, email, analytics, customer-support tooling) to qualified vendors. We require these vendors to maintain security standards equivalent to ours."
+msgstr "当社は、ホスティング、メール、アクセス解析、サポートツールなどの一部業務を、適格な事業者へ委託する場合があります。委託先には当社と同等のセキュリティ水準を求めます。"
+
+msgid "5. Cookies & analytics"
+msgstr "5. Cookie とアクセス解析"
+
+msgid "We use cookies and similar technologies to remember your language preference, keep your session secure, and measure aggregate site usage. You can disable cookies in your browser, but some features (e.g. language switching) may not work correctly without them."
+msgstr "言語設定の保持、セッションの保護、サイト利用状況の集計のために Cookie および類似技術を使用します。ブラウザの設定で Cookie を無効にすることもできますが、その場合、言語切替などの機能が正しく動作しない場合があります。"
+
+msgid "6. Your rights"
+msgstr "6. お客様の権利"
+
+msgid "You may request access to, correction of, or deletion of your personal information at any time. You may also withdraw consent for marketing communications. To exercise these rights, contact us using the details below."
+msgstr "お客様はいつでも、ご自身の個人情報の開示、訂正、削除をご請求いただけます。また、マーケティング目的の通知への同意は随時撤回いただけます。ご請求は、以下の連絡先までお問い合わせください。"
+
+msgid "7. Data retention & security"
+msgstr "7. 保管期間とセキュリティ"
+
+msgid "We retain personal information only for as long as necessary to provide our services and meet legal obligations. We apply reasonable administrative, technical and physical safeguards to protect your data."
+msgstr "個人情報は、サービス提供および法令遵守に必要な期間に限り保管いたします。情報の保護のため、組織的・技術的・物理的に合理的な安全管理措置を講じます。"
+
+msgid "8. International transfer"
+msgstr "8. 国境を越えた移転"
+
+msgid "As a cross-border eCommerce operator we transfer data internationally to fulfil shipments and provide support. We take steps to ensure such transfers are protected under contractual safeguards."
+msgstr "越境 EC 事業者として、配送やサポート提供のためにお客様情報を国境を越えて移転することがあります。当社は契約上の保護措置のもとで、適切な移転を行います。"
+
+msgid "9. Updates to this policy"
+msgstr "9. 本ポリシーの改定"
+
+msgid "We may revise this policy from time to time. The revised version will be posted on this page with an updated effective date."
+msgstr "本ポリシーは必要に応じて改定する場合があります。改定後の内容は、施行日を更新のうえ本ページに掲載します。"
+
+msgid "10. Contact"
+msgstr "10. お問い合わせ窓口"
+
+msgid "Effective date: %s"
+msgstr "施行日:%s"
+
+# === 採用情報 ===
+msgid "Careers"
+msgstr "採用情報"
+
+msgid "Job opening"
+msgstr "募集職種"
+
+msgid "Add new job"
+msgstr "求人を追加"
+
+msgid "Build the future of"
+msgstr "越境コマースの未来を、"
+
+msgid "cross-border commerce."
+msgstr "ともにつくる。"
+
+msgid "We're a multilingual team in Fukuoka building the gateway for authentic Japanese products. If you care about craft, customers and culture — let's talk."
+msgstr "私たちは福岡を拠点とする多言語チーム。本物の日本製品を世界へ届けるゲートウェイをつくっています。ものづくり、お客様、そして文化を大切にする方、ぜひお話ししましょう。"
+
+msgid "No openings right now — please check back soon."
+msgstr "現在、募集中の職種はありません。少し時間をおいて再度ご確認ください。"
+
+msgid "View role"
+msgstr "詳細を見る"
+
+msgid "Don't see your role?"
+msgstr "ぴったりの職種が見つからない?"
+
+msgid "We're always open to exceptional people. Tell us how you can help us scale Japan to the world."
+msgstr "優れた方との出会いはいつでも歓迎です。あなたが日本を世界へ広げるためにどう貢献できるか、ぜひ教えてください。"
+
+msgid "Open application"
+msgstr "オープン応募"
+
+msgid "Send us an open application"
+msgstr "オープン応募を送る"
+
+msgid "All openings"
+msgstr "すべての募集を見る"
+
+msgid "Location"
+msgstr "勤務地"
+
+msgid "Employment type"
+msgstr "雇用形態"
+
+msgid "Experience"
+msgstr "経験"
+
+msgid "Salary range"
+msgstr "想定年収"
+
+msgid "Posted"
+msgstr "掲載日"
+
+msgid "Apply by email"
+msgstr "メールで応募する"
+
+msgid "What you'll do"
+msgstr "業務内容"
+
+msgid "What we're looking for"
+msgstr "求める人物像"
+
+msgid "Nice to have"
+msgstr "歓迎要件"
+
+msgid "What you'll get"
+msgstr "待遇・福利厚生"
+
+msgid "How to apply"
+msgstr "応募方法"
+
+msgid "Send your CV (and a short note on why this role) to %s. We respond within one business day."
+msgstr "履歴書と志望動機(短いメモで構いません)を %s までお送りください。1 営業日以内にご返信いたします。"
+
+msgid "See other openings"
+msgstr "他の募集を見る"
+
+msgid "Application: %s"
+msgstr "応募:%s"
+
+# === Life at Dogo ===
+msgid "Life at Dogo"
+msgstr "Dogo の日常"
+
+msgid "A team in Fukuoka,"
+msgstr "福岡のチームが、"
+
+msgid "shipping joy worldwide."
+msgstr "世界中へよろこびを届けています。"
+
+msgid "We work hard on the craft of cross-border eCommerce — and we have a lot of fun while doing it. Here's a look behind the curtain."
+msgstr "越境 EC の品質に真剣に向き合い、同時に思いきり楽しんでいます。私たちの舞台裏を、ちょっと覗いてみてください。"
+
+msgid "Culture metrics"
+msgstr "カルチャー指標"
+
+msgid "Moments we cherish"
+msgstr "大切にしている瞬間"
+
+msgid "Nine windows into"
+msgstr "私たちの仕事と遊びを覗く、"
+
+msgid "how we work and play."
+msgstr "9 つの窓。"
+
+msgid "A growing collection of glimpses from our HQ, our warehouse and the corners in between. New photos drop every quarter."
+msgstr "本社、倉庫、そしてその間にあるちょっとした風景。四半期ごとに新しい写真を追加していきます。"
+
+msgid "Photos coming soon"
+msgstr "写真は近日公開"
+
+msgid "Team voices"
+msgstr "メンバーの声"
+
+msgid "In their own words."
+msgstr "それぞれの言葉で。"
+
+msgid "Want to be in the next photo?"
+msgstr "次の集合写真に、あなたも。"
+
+msgid "We're hiring."
+msgstr "採用中です。"
+
+msgid "Browse open roles in Fukuoka and remote — we'd love to share a Friday lunch with you."
+msgstr "福岡本社・リモートの募集職種をご覧ください。金曜のランチ、ご一緒できる日を楽しみにしています。"
+
+msgid "See open roles"
+msgstr "募集職種を見る"
+
+msgid "Send an open application"
+msgstr "オープン応募を送る"
+
+# === Partners ===
+msgid "Platforms and service providers"
+msgstr "プラットフォーム・サービスパートナー"
+
+msgid "Trusted infrastructure"
+msgstr "信頼のインフラ"
+
+msgid "Platforms & service providers"
+msgstr "ともに歩む"
+
+msgid "we work with."
+msgstr "プラットフォーム・サービスパートナー。"

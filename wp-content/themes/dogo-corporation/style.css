@@ -1,0 +1,18 @@
+/*
+Theme Name: Dogo Corporation
+Theme URI: https://dogo-trading.com
+Author: Dogo Corporation
+Author URI: https://dogo-trading.com
+Description: Modern dark-themed corporate site for Dogo Corporation — cross-border eCommerce specialist for authentic Japanese products. UI/UX inspired by Cursor.com aesthetic with multilingual support (EN / VI / JA).
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.5
+Requires PHP: 8.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: dogo-corporation
+Domain Path: /languages
+Tags: dark, custom-colors, custom-menu, custom-logo, featured-images, full-width-template, threaded-comments, translation-ready
+*/
+
+/* All visual styles live in assets/css/main.css. This file exists for WP theme metadata only. */

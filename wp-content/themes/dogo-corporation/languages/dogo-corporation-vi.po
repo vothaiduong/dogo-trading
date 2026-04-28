@@ -1,0 +1,704 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dogo Corporation 1.0.0\n"
+"Report-Msgid-Bugs-To: contact@dogo-trading.com\n"
+"POT-Creation-Date: 2026-04-27 00:00+0000\n"
+"PO-Revision-Date: 2026-04-27 00:00+0000\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Domain: dogo-corporation\n"
+
+msgid "Primary Menu"
+msgstr "Menu chính"
+
+msgid "Footer Menu"
+msgstr "Menu chân trang"
+
+msgid "Social Links"
+msgstr "Liên kết mạng xã hội"
+
+msgid "Footer Widgets"
+msgstr "Widget chân trang"
+
+msgid "Widgets shown in the footer columns."
+msgstr "Hiển thị các widget tại các cột chân trang."
+
+msgid "Skip to content"
+msgstr "Chuyển đến nội dung"
+
+msgid "Primary"
+msgstr "Chính"
+
+msgid "Open menu"
+msgstr "Mở menu"
+
+msgid "Toggle color theme"
+msgstr "Đổi giao diện sáng/tối"
+
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+msgid "Contact"
+msgstr "Liên hệ"
+
+msgid "About"
+msgstr "Giới thiệu"
+
+msgid "Services"
+msgstr "Dịch vụ"
+
+msgid "Our Work"
+msgstr "Hoạt động"
+
+msgid "Why Dogo"
+msgstr "Vì sao chọn Dogo"
+
+msgid "Search"
+msgstr "Tìm kiếm"
+
+msgid "Search…"
+msgstr "Tìm kiếm…"
+
+msgid "Now serving 1,000,000+ customers worldwide"
+msgstr "Đang phục vụ hơn 1.000.000 khách hàng toàn cầu"
+
+msgid "Shaping excellence"
+msgstr "Kiến tạo sự xuất sắc"
+
+msgid "in cross-border eCommerce."
+msgstr "trong thương mại điện tử xuyên biên giới."
+
+msgid "Dogo Corporation is the global gateway to authentic Japanese products — connecting collectors, beauty enthusiasts and home chefs across 180+ countries, with over 3 million items shipped since 2020."
+msgstr "Dogo Corporation là cánh cổng kết nối toàn cầu đến hàng hoá Nhật Bản chính hãng — đồng hành cùng nhà sưu tập, tín đồ làm đẹp và đầu bếp gia đình tại hơn 180 quốc gia, đã giao hơn 3 triệu sản phẩm chính hãng kể từ năm 2020."
+
+msgid "Explore services"
+msgstr "Khám phá dịch vụ"
+
+msgid "About Dogo"
+msgstr "Về Dogo"
+
+msgid "Authentic-only sourcing"
+msgstr "Nguồn hàng chính hãng"
+
+msgid "Worldwide fulfilment"
+msgstr "Giao hàng toàn cầu"
+
+msgid "EN · VI · 日本語"
+msgstr "EN · VI · 日本語"
+
+msgid "Limited figurine"
+msgstr "Figurine giới hạn"
+
+msgid "Premium skincare set"
+msgstr "Bộ chăm sóc da cao cấp"
+
+msgid "Hand-forged Santoku"
+msgstr "Dao Santoku rèn tay"
+
+msgid "Yahoo Auctions sourcing"
+msgstr "Đấu giá hộ Yahoo Auctions"
+
+msgid "Verified · shipped today"
+msgstr "Đã xác thực · giao trong ngày"
+
+msgid "Live"
+msgstr "Trực tiếp"
+
+msgid "cross-border volume MoM"
+msgstr "tăng trưởng đơn xuyên biên giới so với tháng trước"
+
+msgid "Key metrics"
+msgstr "Chỉ số chính"
+
+msgid "Founded"
+msgstr "Năm thành lập"
+
+msgid "Customers worldwide"
+msgstr "Khách hàng toàn cầu"
+
+msgid "Products shipped"
+msgstr "Sản phẩm đã giao"
+
+msgid "Countries delivered"
+msgstr "Quốc gia phục vụ"
+
+msgid "What we do"
+msgstr "Chúng tôi làm gì"
+
+msgid "Four specialized lines."
+msgstr "Bốn mảng chuyên biệt."
+
+msgid "One trusted gateway."
+msgstr "Một cổng kết nối tin cậy."
+
+msgid "Each service is purpose-built for a community that values authenticity. Powered by cross-border trade infrastructure proven since 2020."
+msgstr "Mỗi dịch vụ được xây dựng cho cộng đồng coi trọng tính chính hãng, vận hành trên hạ tầng thương mại xuyên biên giới được chứng minh từ năm 2020."
+
+msgid "Collectibles & Figurines"
+msgstr "Sưu tầm & Figurine"
+
+msgid "From trading cards to figurines and plush toys — every collectible is verified authentic, reflecting the soul of Japanese craftsmanship."
+msgstr "Từ thẻ bài đến figurine và thú nhồi bông — mỗi sản phẩm sưu tầm đều được xác thực, phản chiếu tinh hoa thủ công Nhật Bản."
+
+msgid "Authentic figurines & art books"
+msgstr "Figurine và artbook chính hãng"
+
+msgid "Trading cards and video games"
+msgstr "Thẻ bài và video game"
+
+msgid "Worldwide collector network"
+msgstr "Mạng lưới nhà sưu tập toàn cầu"
+
+msgid "Beauty & Personal Care"
+msgstr "Làm đẹp & Chăm sóc cá nhân"
+
+msgid "Authorized distributor of leading Japanese beauty brands — skincare, cosmetics, body care and supplements that meet Japan's rigorous standards."
+msgstr "Nhà phân phối uỷ quyền của các thương hiệu làm đẹp hàng đầu Nhật Bản — chăm sóc da, mỹ phẩm, chăm sóc cơ thể và thực phẩm bổ sung đạt chuẩn Nhật."
+
+msgid "Skincare, haircare & cosmetics"
+msgstr "Chăm sóc da, tóc & mỹ phẩm"
+
+msgid "Body care & supplements"
+msgstr "Chăm sóc cơ thể & thực phẩm bổ sung"
+
+msgid "Official brand partnerships"
+msgstr "Hợp tác chính thức với thương hiệu"
+
+msgid "Kitchenware"
+msgstr "Đồ dùng nhà bếp"
+
+msgid "A curated kitchenware collection bringing Japanese culinary heritage to global tables — from precision knives to time-honored cookware."
+msgstr "Bộ sưu tập đồ bếp chọn lọc, mang di sản ẩm thực Nhật đến bàn ăn toàn cầu — từ dao chuẩn xác đến nồi niêu trứ danh."
+
+msgid "Hand-forged knives & cutlery"
+msgstr "Dao và dụng cụ rèn tay"
+
+msgid "Cookware, sinks & food storage"
+msgstr "Nồi chảo, bồn rửa & hộp đựng thực phẩm"
+
+msgid "Heritage culinary tools"
+msgstr "Dụng cụ bếp truyền thống"
+
+msgid "Purchase Agency"
+msgstr "Mua hộ"
+
+msgid "Your bridge to Japan's domestic marketplace. We source hard-to-find products from Amazon JP, Yahoo Auctions, Rakuma and Mercari."
+msgstr "Cầu nối tới thị trường nội địa Nhật. Chúng tôi tìm kiếm sản phẩm hiếm trên Amazon JP, Yahoo Auctions, Rakuma và Mercari."
+
+msgid "Amazon JP, Yahoo Auctions, Mercari, Rakuma"
+msgstr "Amazon JP, Yahoo Auctions, Mercari, Rakuma"
+
+msgid "Authentication & secure shipping"
+msgstr "Kiểm định và vận chuyển an toàn"
+
+msgid "Multi-language concierge support"
+msgstr "Hỗ trợ đa ngôn ngữ tận tâm"
+
+msgid "Discuss this line"
+msgstr "Trao đổi về mảng này"
+
+msgid "Built around a single belief:"
+msgstr "Xây dựng trên một niềm tin duy nhất:"
+
+msgid "authenticity scales globally."
+msgstr "tính chính hãng có thể vươn ra toàn cầu."
+
+msgid "Since 2020, Dogo Corporation has bridged Japanese makers and global buyers — operating as a full cross-border eCommerce specialist across collectibles, beauty, kitchenware and proxy procurement."
+msgstr "Kể từ năm 2020, Dogo Corporation đã kết nối nhà sản xuất Nhật Bản với khách hàng toàn cầu — vận hành như một chuyên gia thương mại điện tử xuyên biên giới đầy đủ trong các mảng sưu tầm, làm đẹp, nhà bếp và mua hộ."
+
+msgid "Our infrastructure handles sourcing, verification, multi-language support and global fulfilment, so partners can focus on what matters: bringing the very best of Japan to the world."
+msgstr "Hệ thống của chúng tôi đảm nhiệm tìm nguồn, xác thực, hỗ trợ đa ngôn ngữ và giao vận toàn cầu, để đối tác tập trung vào điều quan trọng nhất: mang tinh hoa Nhật Bản đến thế giới."
+
+msgid "Mission"
+msgstr "Sứ mệnh"
+
+msgid "Make authentic Japanese products accessible to every buyer, in every language, on every continent."
+msgstr "Đưa sản phẩm Nhật chính hãng tới mọi khách hàng, bằng mọi ngôn ngữ, ở mọi châu lục."
+
+msgid "Promise"
+msgstr "Cam kết"
+
+msgid "100% verified inventory · official brand partnerships · transparent logistics."
+msgstr "100% hàng đã xác thực · hợp tác chính thức với thương hiệu · vận chuyển minh bạch."
+
+msgid "Reach"
+msgstr "Phạm vi"
+
+msgid "Headquarters in Fukuoka · shipping to 180+ countries worldwide."
+msgstr "Trụ sở tại Fukuoka · giao hàng đến hơn 180 quốc gia trên toàn thế giới."
+
+msgid "Dogo Corporation operations"
+msgstr "Hoạt động vận hành Dogo Corporation"
+
+msgid "Dogo team and warehouse"
+msgstr "Đội ngũ và kho bãi Dogo"
+
+msgid "A complete"
+msgstr "Một"
+
+msgid "cross-border operating system."
+msgstr "hệ điều hành xuyên biên giới hoàn chỉnh."
+
+msgid "Six capabilities that compound — sourcing, logistics, commerce, support, partnerships, compliance."
+msgstr "Sáu năng lực bổ trợ — tìm nguồn, hậu cần, thương mại, hỗ trợ, đối tác, tuân thủ."
+
+msgid "Direct relationships with Japanese brands and verified resellers — every item ships with provenance."
+msgstr "Quan hệ trực tiếp với thương hiệu Nhật và nhà bán đã được xác thực — mỗi sản phẩm đều có nguồn gốc rõ ràng."
+
+msgid "Cross-border logistics"
+msgstr "Hậu cần xuyên biên giới"
+
+msgid "Consolidated warehousing, customs handling and tracked international fulfilment to 180+ countries."
+msgstr "Kho gom hàng, xử lý hải quan và giao quốc tế có theo dõi đến hơn 180 quốc gia."
+
+msgid "Multi-channel commerce"
+msgstr "Thương mại đa kênh"
+
+msgid "Storefronts, marketplaces and proxy bidding across Amazon JP, Yahoo Auctions, Mercari and Rakuma."
+msgstr "Cửa hàng, sàn thương mại và đấu giá hộ trên Amazon JP, Yahoo Auctions, Mercari và Rakuma."
+
+msgid "Native-language concierge"
+msgstr "Hỗ trợ bản địa"
+
+msgid "Bilingual support team handles negotiation, translation, payment and post-sale care."
+msgstr "Đội hỗ trợ song ngữ phụ trách đàm phán, biên dịch, thanh toán và chăm sóc sau bán."
+
+msgid "Brand partnerships"
+msgstr "Hợp tác thương hiệu"
+
+msgid "Authorized distributor for leading Japanese beauty, kitchen and collectible labels."
+msgstr "Nhà phân phối uỷ quyền của các thương hiệu làm đẹp, đồ bếp và sưu tầm hàng đầu Nhật Bản."
+
+msgid "Quality & compliance"
+msgstr "Chất lượng & tuân thủ"
+
+msgid "Inspection workflows aligned with destination-market regulations and customer-protection standards."
+msgstr "Quy trình kiểm định bám sát quy định thị trường đích và tiêu chuẩn bảo vệ khách hàng."
+
+msgid "Call to action"
+msgstr "Lời mời hành động"
+
+msgid "Ready to source from Japan,"
+msgstr "Sẵn sàng nhập hàng Nhật,"
+
+msgid "the right way?"
+msgstr "đúng cách?"
+
+msgid "Talk to a Dogo specialist about wholesale, retail, proxy or partnership opportunities. We respond within one business day."
+msgstr "Trao đổi cùng chuyên viên Dogo về cơ hội bán sỉ, bán lẻ, mua hộ hoặc hợp tác. Chúng tôi phản hồi trong vòng một ngày làm việc."
+
+msgid "Start a conversation"
+msgstr "Bắt đầu trò chuyện"
+
+msgid "See services"
+msgstr "Xem dịch vụ"
+
+msgid "Let's talk about your"
+msgstr "Hãy trao đổi về"
+
+msgid "next cross-border move."
+msgstr "bước đi xuyên biên giới tiếp theo của bạn."
+
+msgid "Wholesale buyers, brand partners and proxy customers — we'd love to hear from you."
+msgstr "Khách hàng sỉ, đối tác thương hiệu và khách mua hộ — chúng tôi rất mong nhận được liên hệ từ bạn."
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Headquarters"
+msgstr "Trụ sở"
+
+msgid "Fukuoka, Japan"
+msgstr "Fukuoka, Nhật Bản"
+
+msgid "Address"
+msgstr "Địa chỉ"
+
+msgid "2-2-26 Yutaka, Hakata-ku, Fukuoka"
+msgstr "2-2-26 Yutaka, Hakata-ku, Fukuoka, Nhật Bản"
+
+msgid "Open in Google Maps"
+msgstr "Mở Google Maps"
+
+msgid "Map to Dogo Corporation headquarters"
+msgstr "Bản đồ tới trụ sở Dogo Corporation"
+
+msgid "Languages"
+msgstr "Ngôn ngữ"
+
+msgid "English · Tiếng Việt · 日本語"
+msgstr "English · Tiếng Việt · 日本語"
+
+msgid "Name"
+msgstr "Họ tên"
+
+msgid "Company"
+msgstr "Công ty"
+
+msgid "Your company"
+msgstr "Tên công ty"
+
+msgid "I'm interested in"
+msgstr "Tôi quan tâm đến"
+
+msgid "Partnership / wholesale"
+msgstr "Hợp tác / bán sỉ"
+
+msgid "Message"
+msgstr "Nội dung"
+
+msgid "Send message"
+msgstr "Gửi liên hệ"
+
+msgid "We respond within one business day."
+msgstr "Chúng tôi phản hồi trong vòng một ngày làm việc."
+
+msgid "Shaping excellence in cross-border eCommerce. Authentic Japanese products, delivered worldwide."
+msgstr "Kiến tạo sự xuất sắc trong thương mại điện tử xuyên biên giới. Hàng Nhật chính hãng, giao đi toàn thế giới."
+
+msgid "Get in touch"
+msgstr "Liên hệ"
+
+msgid "Legal"
+msgstr "Pháp lý"
+
+msgid "Privacy Policy"
+msgstr "Chính sách bảo mật"
+
+msgid "Terms"
+msgstr "Điều khoản"
+
+msgid "About us"
+msgstr "Giới thiệu"
+
+msgid "Our work"
+msgstr "Hoạt động"
+
+msgid "All rights reserved."
+msgstr "Mọi quyền được bảo lưu."
+
+msgid "Crafted for cross-border excellence."
+msgstr "Thiết kế cho sự xuất sắc xuyên biên giới."
+
+msgid "Back to top"
+msgstr "Về đầu trang"
+
+msgid "Journal"
+msgstr "Tin tức"
+
+msgid "Read more"
+msgstr "Xem thêm"
+
+msgid "« Previous"
+msgstr "« Trước"
+
+msgid "Next »"
+msgstr "Tiếp »"
+
+msgid "Nothing here yet."
+msgstr "Chưa có nội dung."
+
+msgid "Error 404"
+msgstr "Lỗi 404"
+
+msgid "Page not found"
+msgstr "Không tìm thấy trang"
+
+msgid "The page you were looking for doesn't exist or has been moved."
+msgstr "Trang bạn tìm không tồn tại hoặc đã được chuyển đi."
+
+msgid "Back to home"
+msgstr "Về trang chủ"
+
+# === Trang Công ty ===
+msgid "Company profile"
+msgstr "Hồ sơ công ty"
+
+msgid "TBD"
+msgstr "Đang cập nhật"
+
+msgid "Trade name"
+msgstr "Tên thương mại"
+
+msgid "Representative"
+msgstr "Người đại diện"
+
+msgid "Capital"
+msgstr "Vốn điều lệ"
+
+msgid "Corporate number"
+msgstr "Mã số doanh nghiệp"
+
+msgid "Employees"
+msgstr "Số nhân viên"
+
+msgid "Business hours"
+msgstr "Giờ làm việc"
+
+msgid "Lines of business"
+msgstr "Ngành nghề kinh doanh"
+
+msgid "Phone"
+msgstr "Điện thoại"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Bank account"
+msgstr "Tài khoản ngân hàng"
+
+msgid "For wholesale and B2B partners — please contact us before sending payment."
+msgstr "Dành cho khách hàng sỉ và đối tác B2B — vui lòng liên hệ trước khi chuyển khoản."
+
+msgid "Bank"
+msgstr "Ngân hàng"
+
+msgid "Branch"
+msgstr "Chi nhánh"
+
+msgid "Account type"
+msgstr "Loại tài khoản"
+
+msgid "Account number"
+msgstr "Số tài khoản"
+
+msgid "Account holder"
+msgstr "Chủ tài khoản"
+
+msgid "Contact our team"
+msgstr "Liên hệ với chúng tôi"
+
+msgid "Weekdays 9:00 – 18:00 JST (closed weekends and Japanese national holidays)"
+msgstr "Thứ 2 – Thứ 6, 9:00 – 18:00 JST (nghỉ cuối tuần và ngày lễ Nhật Bản)"
+
+msgid "Cross-border eCommerce: collectibles, beauty, kitchenware and Japan purchase agency."
+msgstr "Thương mại điện tử xuyên biên giới: sản phẩm sưu tầm, làm đẹp, đồ bếp và mua hộ Nhật Bản."
+
+# === Chính sách bảo mật ===
+msgid "%s (\"the Company\") values the privacy of every visitor and customer. This policy explains what personal information we collect, how we use it, and the choices you have."
+msgstr "%s (gọi tắt là \"Công ty\") tôn trọng quyền riêng tư của mọi khách truy cập và khách hàng. Chính sách này giải thích các thông tin cá nhân chúng tôi thu thập, cách sử dụng và các quyền của bạn."
+
+msgid "1. Information we collect"
+msgstr "1. Thông tin chúng tôi thu thập"
+
+msgid "When you contact us, place an order, or use our services, we may collect: your name, company name, email address, phone number, shipping/billing address, payment information, and the content of your inquiries. We also collect technical data automatically (IP address, browser type, referring URL, pages visited, timestamps) for security and analytics."
+msgstr "Khi bạn liên hệ, đặt hàng hoặc sử dụng dịch vụ, chúng tôi có thể thu thập: họ tên, tên công ty, email, số điện thoại, địa chỉ giao hàng/thanh toán, thông tin thanh toán và nội dung yêu cầu. Chúng tôi cũng tự động thu thập dữ liệu kỹ thuật (địa chỉ IP, trình duyệt, URL tham chiếu, các trang đã xem, thời gian) phục vụ bảo mật và phân tích."
+
+msgid "2. Purpose of use"
+msgstr "2. Mục đích sử dụng"
+
+msgid "Responding to inquiries and providing requested services"
+msgstr "Phản hồi yêu cầu và cung cấp dịch vụ được yêu cầu"
+
+msgid "Processing orders, payments and shipments"
+msgstr "Xử lý đơn hàng, thanh toán và vận chuyển"
+
+msgid "Cross-border customs handling and partner communication"
+msgstr "Xử lý hải quan xuyên biên giới và liên lạc với đối tác"
+
+msgid "Customer support, after-sales service and dispute resolution"
+msgstr "Hỗ trợ khách hàng, dịch vụ hậu mãi và giải quyết khiếu nại"
+
+msgid "Service improvement, fraud prevention and legal compliance"
+msgstr "Cải thiện dịch vụ, phòng chống gian lận và tuân thủ pháp luật"
+
+msgid "Marketing communications, only with your prior consent"
+msgstr "Truyền thông tiếp thị — chỉ khi bạn đã đồng ý trước"
+
+msgid "3. Disclosure to third parties"
+msgstr "3. Tiết lộ cho bên thứ ba"
+
+msgid "We do not sell your personal information. We may share necessary data with: payment processors, shipping/customs partners, manufacturer or marketplace partners required to fulfil your order, and authorities when required by law. All partners are bound by confidentiality obligations consistent with this policy."
+msgstr "Chúng tôi không bán thông tin cá nhân của bạn. Chúng tôi có thể chia sẻ dữ liệu cần thiết với: đơn vị xử lý thanh toán, đối tác vận chuyển/hải quan, đối tác nhà sản xuất hoặc sàn thương mại để hoàn thành đơn hàng, và cơ quan chức năng khi pháp luật yêu cầu. Mọi đối tác đều bị ràng buộc bởi nghĩa vụ bảo mật tương đương chính sách này."
+
+msgid "4. Outsourcing & sub-processors"
+msgstr "4. Thuê ngoài và bên xử lý phụ"
+
+msgid "We may entrust limited processing (hosting, email, analytics, customer-support tooling) to qualified vendors. We require these vendors to maintain security standards equivalent to ours."
+msgstr "Chúng tôi có thể uỷ thác một phần xử lý (hosting, email, phân tích, công cụ hỗ trợ khách hàng) cho các nhà cung cấp đủ năng lực. Các nhà cung cấp này phải tuân thủ tiêu chuẩn bảo mật tương đương với chúng tôi."
+
+msgid "5. Cookies & analytics"
+msgstr "5. Cookie và phân tích"
+
+msgid "We use cookies and similar technologies to remember your language preference, keep your session secure, and measure aggregate site usage. You can disable cookies in your browser, but some features (e.g. language switching) may not work correctly without them."
+msgstr "Chúng tôi sử dụng cookie và công nghệ tương tự để ghi nhớ ngôn ngữ ưu tiên, đảm bảo phiên đăng nhập an toàn và đo lường mức độ sử dụng tổng hợp của trang. Bạn có thể tắt cookie trong trình duyệt, nhưng một số chức năng (ví dụ chuyển đổi ngôn ngữ) có thể không hoạt động đúng."
+
+msgid "6. Your rights"
+msgstr "6. Quyền của bạn"
+
+msgid "You may request access to, correction of, or deletion of your personal information at any time. You may also withdraw consent for marketing communications. To exercise these rights, contact us using the details below."
+msgstr "Bạn có thể yêu cầu truy cập, chỉnh sửa hoặc xoá thông tin cá nhân bất cứ lúc nào. Bạn cũng có thể rút lại sự đồng ý nhận tin tiếp thị. Để thực hiện các quyền này, vui lòng liên hệ qua thông tin bên dưới."
+
+msgid "7. Data retention & security"
+msgstr "7. Lưu trữ dữ liệu và bảo mật"
+
+msgid "We retain personal information only for as long as necessary to provide our services and meet legal obligations. We apply reasonable administrative, technical and physical safeguards to protect your data."
+msgstr "Chúng tôi chỉ lưu trữ thông tin cá nhân trong thời gian cần thiết để cung cấp dịch vụ và tuân thủ nghĩa vụ pháp lý. Chúng tôi áp dụng các biện pháp bảo vệ hợp lý về tổ chức, kỹ thuật và vật lý để bảo vệ dữ liệu."
+
+msgid "8. International transfer"
+msgstr "8. Chuyển dữ liệu quốc tế"
+
+msgid "As a cross-border eCommerce operator we transfer data internationally to fulfil shipments and provide support. We take steps to ensure such transfers are protected under contractual safeguards."
+msgstr "Là đơn vị thương mại điện tử xuyên biên giới, chúng tôi chuyển dữ liệu quốc tế để hoàn thành đơn hàng và cung cấp hỗ trợ. Chúng tôi áp dụng các biện pháp bảo vệ theo hợp đồng để đảm bảo việc chuyển dữ liệu an toàn."
+
+msgid "9. Updates to this policy"
+msgstr "9. Cập nhật chính sách"
+
+msgid "We may revise this policy from time to time. The revised version will be posted on this page with an updated effective date."
+msgstr "Chúng tôi có thể cập nhật chính sách này theo thời gian. Phiên bản cập nhật sẽ được đăng tại trang này với ngày hiệu lực mới."
+
+msgid "10. Contact"
+msgstr "10. Liên hệ"
+
+msgid "Effective date: %s"
+msgstr "Ngày hiệu lực: %s"
+
+# === Tuyển dụng ===
+msgid "Careers"
+msgstr "Tuyển dụng"
+
+msgid "Job opening"
+msgstr "Vị trí tuyển dụng"
+
+msgid "Add new job"
+msgstr "Thêm vị trí mới"
+
+msgid "Build the future of"
+msgstr "Cùng kiến tạo tương lai của"
+
+msgid "cross-border commerce."
+msgstr "thương mại xuyên biên giới."
+
+msgid "We're a multilingual team in Fukuoka building the gateway for authentic Japanese products. If you care about craft, customers and culture — let's talk."
+msgstr "Chúng tôi là một team đa ngôn ngữ tại Fukuoka, xây dựng cánh cổng đưa hàng Nhật chính hãng đến thế giới. Nếu bạn quan tâm đến sự tỉ mỉ, khách hàng và văn hoá — hãy trò chuyện cùng chúng tôi."
+
+msgid "No openings right now — please check back soon."
+msgstr "Hiện chưa có vị trí nào đang tuyển — vui lòng quay lại sau."
+
+msgid "View role"
+msgstr "Xem chi tiết"
+
+msgid "Don't see your role?"
+msgstr "Không thấy vị trí phù hợp?"
+
+msgid "We're always open to exceptional people. Tell us how you can help us scale Japan to the world."
+msgstr "Chúng tôi luôn rộng cửa với những người xuất sắc. Hãy cho chúng tôi biết bạn có thể giúp đưa Nhật Bản đến thế giới như thế nào."
+
+msgid "Open application"
+msgstr "Ứng tuyển mở"
+
+msgid "Send us an open application"
+msgstr "Gửi đơn ứng tuyển mở"
+
+msgid "All openings"
+msgstr "Xem tất cả vị trí"
+
+msgid "Location"
+msgstr "Địa điểm làm việc"
+
+msgid "Employment type"
+msgstr "Hình thức làm việc"
+
+msgid "Experience"
+msgstr "Kinh nghiệm"
+
+msgid "Salary range"
+msgstr "Mức lương dự kiến"
+
+msgid "Posted"
+msgstr "Ngày đăng"
+
+msgid "Apply by email"
+msgstr "Ứng tuyển qua email"
+
+msgid "What you'll do"
+msgstr "Công việc của bạn"
+
+msgid "What we're looking for"
+msgstr "Yêu cầu công việc"
+
+msgid "Nice to have"
+msgstr "Điểm cộng"
+
+msgid "What you'll get"
+msgstr "Phúc lợi"
+
+msgid "How to apply"
+msgstr "Cách ứng tuyển"
+
+msgid "Send your CV (and a short note on why this role) to %s. We respond within one business day."
+msgstr "Gửi CV (và một ghi chú ngắn về lý do bạn chọn vị trí này) đến %s. Chúng tôi sẽ phản hồi trong vòng 1 ngày làm việc."
+
+msgid "See other openings"
+msgstr "Xem các vị trí khác"
+
+msgid "Application: %s"
+msgstr "Ứng tuyển: %s"
+
+# === Life at Dogo ===
+msgid "Life at Dogo"
+msgstr "Cuộc sống tại Dogo"
+
+msgid "A team in Fukuoka,"
+msgstr "Một team ở Fukuoka,"
+
+msgid "shipping joy worldwide."
+msgstr "gửi niềm vui đi khắp thế giới."
+
+msgid "We work hard on the craft of cross-border eCommerce — and we have a lot of fun while doing it. Here's a look behind the curtain."
+msgstr "Chúng tôi nghiêm túc với từng chi tiết của thương mại xuyên biên giới — và rất vui khi làm điều đó. Cùng nhìn sau cánh gà nhé."
+
+msgid "Culture metrics"
+msgstr "Chỉ số văn hoá"
+
+msgid "Moments we cherish"
+msgstr "Những khoảnh khắc đáng nhớ"
+
+msgid "Nine windows into"
+msgstr "Chín ô cửa nhìn vào"
+
+msgid "how we work and play."
+msgstr "cách chúng tôi làm việc và vui chơi."
+
+msgid "A growing collection of glimpses from our HQ, our warehouse and the corners in between. New photos drop every quarter."
+msgstr "Một bộ ảnh đang lớn dần — từ trụ sở, kho bãi đến những góc nhỏ ở giữa. Ảnh mới được cập nhật mỗi quý."
+
+msgid "Photos coming soon"
+msgstr "Ảnh sắp ra mắt"
+
+msgid "Team voices"
+msgstr "Tiếng nói thành viên"
+
+msgid "In their own words."
+msgstr "Theo lời chính họ."
+
+msgid "Want to be in the next photo?"
+msgstr "Bạn muốn xuất hiện trong tấm ảnh tiếp theo?"
+
+msgid "We're hiring."
+msgstr "Chúng tôi đang tuyển."
+
+msgid "Browse open roles in Fukuoka and remote — we'd love to share a Friday lunch with you."
+msgstr "Xem các vị trí đang tuyển tại Fukuoka và làm từ xa — rất mong được dùng bữa trưa thứ Sáu cùng bạn."
+
+msgid "See open roles"
+msgstr "Xem vị trí đang tuyển"
+
+msgid "Send an open application"
+msgstr "Gửi đơn ứng tuyển mở"
+
+# === Partners ===
+msgid "Platforms and service providers"
+msgstr "Nền tảng và nhà cung cấp dịch vụ"
+
+msgid "Trusted infrastructure"
+msgstr "Hạ tầng tin cậy"
+
+msgid "Platforms & service providers"
+msgstr "Nền tảng & nhà cung cấp"
+
+msgid "we work with."
+msgstr "đồng hành cùng chúng tôi."

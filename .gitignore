@@ -1,0 +1,27 @@
+# Local env / secrets
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+.claude/
+*.swp
+*.swo
+
+# Build / runtime
+dist/
+node_modules/
+
+# Local uploads (sync to server explicitly via `make deploy-images`)
+uploads/
+
+# Docker volume artifacts that may leak in (shouldn't, but just in case)
+db_data/
+wp_data/
+
+# wp-cli / WP debug
+debug.log
+*.log

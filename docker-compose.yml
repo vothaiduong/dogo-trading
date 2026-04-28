@@ -1,0 +1,88 @@
+# Local dev stack for dogo-corporation theme.
+#
+#   make up      -> start WordPress on http://localhost:8080
+#   make install -> bootstrap WP + activate theme + install Polylang
+#   make down    -> stop and remove containers
+#
+# The theme directory is bind-mounted, so edits hot-reload on refresh.
+
+services:
+  db:
+    image: mariadb:11
+    container_name: dogo-db
+    restart: unless-stopped
+    environment:
+      MARIADB_ROOT_PASSWORD: ${DB_ROOT_PASSWORD:-rootpw}
+      MARIADB_DATABASE: ${DB_NAME:-dogo}
+      MARIADB_USER: ${DB_USER:-dogo}
+      MARIADB_PASSWORD: ${DB_PASSWORD:-dogopw}
+    volumes:
+      - db_data:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "healthcheck.sh", "--connect", "--innodb_initialized"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  wordpress:
+    image: wordpress:6.5-php8.2-apache
+    container_name: dogo-wp
+    depends_on:
+      db:
+        condition: service_healthy
+    restart: unless-stopped
+    ports:
+      - "${WP_PORT:-8080}:80"
+    environment:
+      WORDPRESS_DB_HOST: db:3306
+      WORDPRESS_DB_NAME: ${DB_NAME:-dogo}
+      WORDPRESS_DB_USER: ${DB_USER:-dogo}
+      WORDPRESS_DB_PASSWORD: ${DB_PASSWORD:-dogopw}
+      WORDPRESS_DEBUG: "1"
+      WORDPRESS_CONFIG_EXTRA: |
+        define('WP_DEBUG_LOG', true);
+        define('WP_DEBUG_DISPLAY', false);
+        define('SCRIPT_DEBUG', true);
+        define('FS_METHOD', 'direct');
+    volumes:
+      - wp_data:/var/www/html
+      # bind-mount theme so file edits show up live
+      - ./wp-content/themes/dogo-corporation:/var/www/html/wp-content/themes/dogo-corporation
+      - ./uploads:/var/www/html/wp-content/uploads
+
+  wpcli:
+    image: wordpress:cli-php8.2
+    container_name: dogo-wpcli
+    depends_on:
+      - wordpress
+      - db
+    user: "33:33"  # www-data, matches wordpress image
+    volumes:
+      - wp_data:/var/www/html
+      - ./wp-content/themes/dogo-corporation:/var/www/html/wp-content/themes/dogo-corporation
+      - ./uploads:/var/www/html/wp-content/uploads
+    environment:
+      WORDPRESS_DB_HOST: db:3306
+      WORDPRESS_DB_NAME: ${DB_NAME:-dogo}
+      WORDPRESS_DB_USER: ${DB_USER:-dogo}
+      WORDPRESS_DB_PASSWORD: ${DB_PASSWORD:-dogopw}
+    entrypoint: ["wp", "--allow-root"]
+    command: ["--info"]
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin:latest
+    container_name: dogo-pma
+    restart: unless-stopped
+    depends_on:
+      - db
+    ports:
+      - "${PMA_PORT:-8081}:80"
+    environment:
+      PMA_HOST: db
+      PMA_USER: root
+      PMA_PASSWORD: ${DB_ROOT_PASSWORD:-rootpw}
+      UPLOAD_LIMIT: 256M
+
+volumes:
+  db_data:
+  wp_data:

@@ -1,0 +1,716 @@
+# Copyright (C) 2026 Dogo Corporation
+# This file is distributed under the GNU GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Dogo Corporation 1.0.0\n"
+"Report-Msgid-Bugs-To: contact@dogo-trading.com\n"
+"POT-Creation-Date: 2026-04-27 00:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2026-04-27 00:00+0000\n"
+"Language-Team: Dogo Corporation\n"
+"X-Generator: Manual\n"
+"X-Domain: dogo-corporation\n"
+
+# === Navigation & shell ===
+msgid "Primary Menu"
+msgstr ""
+
+msgid "Footer Menu"
+msgstr ""
+
+msgid "Social Links"
+msgstr ""
+
+msgid "Footer Widgets"
+msgstr ""
+
+msgid "Widgets shown in the footer columns."
+msgstr ""
+
+msgid "Skip to content"
+msgstr ""
+
+msgid "Primary"
+msgstr ""
+
+msgid "Open menu"
+msgstr ""
+
+msgid "Toggle color theme"
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "Contact"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Services"
+msgstr ""
+
+msgid "Our Work"
+msgstr ""
+
+msgid "Why Dogo"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Search…"
+msgstr ""
+
+# === Hero ===
+msgid "Now serving 1,000,000+ customers worldwide"
+msgstr ""
+
+msgid "Shaping excellence"
+msgstr ""
+
+msgid "in cross-border eCommerce."
+msgstr ""
+
+msgid "Dogo Corporation is the global gateway to authentic Japanese products — connecting collectors, beauty enthusiasts and home chefs across 180+ countries, with over 3 million items shipped since 2020."
+msgstr ""
+
+msgid "Explore services"
+msgstr ""
+
+msgid "About Dogo"
+msgstr ""
+
+msgid "Authentic-only sourcing"
+msgstr ""
+
+msgid "Worldwide fulfilment"
+msgstr ""
+
+msgid "EN · VI · 日本語"
+msgstr ""
+
+msgid "Limited figurine"
+msgstr ""
+
+msgid "Premium skincare set"
+msgstr ""
+
+msgid "Hand-forged Santoku"
+msgstr ""
+
+msgid "Yahoo Auctions sourcing"
+msgstr ""
+
+msgid "Verified · shipped today"
+msgstr ""
+
+msgid "Live"
+msgstr ""
+
+msgid "cross-border volume MoM"
+msgstr ""
+
+# === Stats ===
+msgid "Key metrics"
+msgstr ""
+
+msgid "Founded"
+msgstr ""
+
+msgid "Customers worldwide"
+msgstr ""
+
+msgid "Products shipped"
+msgstr ""
+
+msgid "Countries delivered"
+msgstr ""
+
+# === Services ===
+msgid "What we do"
+msgstr ""
+
+msgid "Four specialized lines."
+msgstr ""
+
+msgid "One trusted gateway."
+msgstr ""
+
+msgid "Each service is purpose-built for a community that values authenticity. Powered by cross-border trade infrastructure proven since 2020."
+msgstr ""
+
+msgid "Collectibles & Figurines"
+msgstr ""
+
+msgid "From trading cards to figurines and plush toys — every collectible is verified authentic, reflecting the soul of Japanese craftsmanship."
+msgstr ""
+
+msgid "Authentic figurines & art books"
+msgstr ""
+
+msgid "Trading cards and video games"
+msgstr ""
+
+msgid "Worldwide collector network"
+msgstr ""
+
+msgid "Beauty & Personal Care"
+msgstr ""
+
+msgid "Authorized distributor of leading Japanese beauty brands — skincare, cosmetics, body care and supplements that meet Japan's rigorous standards."
+msgstr ""
+
+msgid "Skincare, haircare & cosmetics"
+msgstr ""
+
+msgid "Body care & supplements"
+msgstr ""
+
+msgid "Official brand partnerships"
+msgstr ""
+
+msgid "Kitchenware"
+msgstr ""
+
+msgid "A curated kitchenware collection bringing Japanese culinary heritage to global tables — from precision knives to time-honored cookware."
+msgstr ""
+
+msgid "Hand-forged knives & cutlery"
+msgstr ""
+
+msgid "Cookware, sinks & food storage"
+msgstr ""
+
+msgid "Heritage culinary tools"
+msgstr ""
+
+msgid "Purchase Agency"
+msgstr ""
+
+msgid "Your bridge to Japan's domestic marketplace. We source hard-to-find products from Amazon JP, Yahoo Auctions, Rakuma and Mercari."
+msgstr ""
+
+msgid "Amazon JP, Yahoo Auctions, Mercari, Rakuma"
+msgstr ""
+
+msgid "Authentication & secure shipping"
+msgstr ""
+
+msgid "Multi-language concierge support"
+msgstr ""
+
+msgid "Discuss this line"
+msgstr ""
+
+# === About ===
+msgid "Built around a single belief:"
+msgstr ""
+
+msgid "authenticity scales globally."
+msgstr ""
+
+msgid "Since 2020, Dogo Corporation has bridged Japanese makers and global buyers — operating as a full cross-border eCommerce specialist across collectibles, beauty, kitchenware and proxy procurement."
+msgstr ""
+
+msgid "Our infrastructure handles sourcing, verification, multi-language support and global fulfilment, so partners can focus on what matters: bringing the very best of Japan to the world."
+msgstr ""
+
+msgid "Mission"
+msgstr ""
+
+msgid "Make authentic Japanese products accessible to every buyer, in every language, on every continent."
+msgstr ""
+
+msgid "Promise"
+msgstr ""
+
+msgid "100% verified inventory · official brand partnerships · transparent logistics."
+msgstr ""
+
+msgid "Reach"
+msgstr ""
+
+msgid "Headquarters in Fukuoka · shipping to 180+ countries worldwide."
+msgstr ""
+
+msgid "Dogo Corporation operations"
+msgstr ""
+
+msgid "Dogo team and warehouse"
+msgstr ""
+
+# === Work / pillars ===
+msgid "A complete"
+msgstr ""
+
+msgid "cross-border operating system."
+msgstr ""
+
+msgid "Six capabilities that compound — sourcing, logistics, commerce, support, partnerships, compliance."
+msgstr ""
+
+msgid "Direct relationships with Japanese brands and verified resellers — every item ships with provenance."
+msgstr ""
+
+msgid "Cross-border logistics"
+msgstr ""
+
+msgid "Consolidated warehousing, customs handling and tracked international fulfilment to 180+ countries."
+msgstr ""
+
+msgid "Multi-channel commerce"
+msgstr ""
+
+msgid "Storefronts, marketplaces and proxy bidding across Amazon JP, Yahoo Auctions, Mercari and Rakuma."
+msgstr ""
+
+msgid "Native-language concierge"
+msgstr ""
+
+msgid "Bilingual support team handles negotiation, translation, payment and post-sale care."
+msgstr ""
+
+msgid "Brand partnerships"
+msgstr ""
+
+msgid "Authorized distributor for leading Japanese beauty, kitchen and collectible labels."
+msgstr ""
+
+msgid "Quality & compliance"
+msgstr ""
+
+msgid "Inspection workflows aligned with destination-market regulations and customer-protection standards."
+msgstr ""
+
+# === CTA ===
+msgid "Call to action"
+msgstr ""
+
+msgid "Ready to source from Japan,"
+msgstr ""
+
+msgid "the right way?"
+msgstr ""
+
+msgid "Talk to a Dogo specialist about wholesale, retail, proxy or partnership opportunities. We respond within one business day."
+msgstr ""
+
+msgid "Start a conversation"
+msgstr ""
+
+msgid "See services"
+msgstr ""
+
+# === Contact ===
+msgid "Let's talk about your"
+msgstr ""
+
+msgid "next cross-border move."
+msgstr ""
+
+msgid "Wholesale buyers, brand partners and proxy customers — we'd love to hear from you."
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Headquarters"
+msgstr ""
+
+msgid "Fukuoka, Japan"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "2-2-26 Yutaka, Hakata-ku, Fukuoka"
+msgstr ""
+
+msgid "Open in Google Maps"
+msgstr ""
+
+msgid "Map to Dogo Corporation headquarters"
+msgstr ""
+
+msgid "Languages"
+msgstr ""
+
+msgid "English · Tiếng Việt · 日本語"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Company"
+msgstr ""
+
+msgid "Your company"
+msgstr ""
+
+msgid "I'm interested in"
+msgstr ""
+
+msgid "Partnership / wholesale"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Send message"
+msgstr ""
+
+msgid "We respond within one business day."
+msgstr ""
+
+# === Footer ===
+msgid "Shaping excellence in cross-border eCommerce. Authentic Japanese products, delivered worldwide."
+msgstr ""
+
+msgid "Get in touch"
+msgstr ""
+
+msgid "Legal"
+msgstr ""
+
+msgid "Privacy Policy"
+msgstr ""
+
+msgid "Terms"
+msgstr ""
+
+msgid "About us"
+msgstr ""
+
+msgid "Our work"
+msgstr ""
+
+msgid "All rights reserved."
+msgstr ""
+
+msgid "Crafted for cross-border excellence."
+msgstr ""
+
+msgid "Back to top"
+msgstr ""
+
+# === Misc ===
+msgid "Journal"
+msgstr ""
+
+msgid "Read more"
+msgstr ""
+
+msgid "« Previous"
+msgstr ""
+
+msgid "Next »"
+msgstr ""
+
+msgid "Nothing here yet."
+msgstr ""
+
+msgid "Error 404"
+msgstr ""
+
+msgid "Page not found"
+msgstr ""
+
+msgid "The page you were looking for doesn't exist or has been moved."
+msgstr ""
+
+msgid "Back to home"
+msgstr ""
+
+# === Company page ===
+msgid "Company profile"
+msgstr ""
+
+msgid "TBD"
+msgstr ""
+
+msgid "Trade name"
+msgstr ""
+
+msgid "Representative"
+msgstr ""
+
+msgid "Capital"
+msgstr ""
+
+msgid "Corporate number"
+msgstr ""
+
+msgid "Employees"
+msgstr ""
+
+msgid "Business hours"
+msgstr ""
+
+msgid "Lines of business"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "Website"
+msgstr ""
+
+msgid "Bank account"
+msgstr ""
+
+msgid "For wholesale and B2B partners — please contact us before sending payment."
+msgstr ""
+
+msgid "Bank"
+msgstr ""
+
+msgid "Branch"
+msgstr ""
+
+msgid "Account type"
+msgstr ""
+
+msgid "Account number"
+msgstr ""
+
+msgid "Account holder"
+msgstr ""
+
+msgid "Contact our team"
+msgstr ""
+
+msgid "Weekdays 9:00 – 18:00 JST (closed weekends and Japanese national holidays)"
+msgstr ""
+
+msgid "Cross-border eCommerce: collectibles, beauty, kitchenware and Japan purchase agency."
+msgstr ""
+
+# === Privacy page ===
+msgid "%s (\"the Company\") values the privacy of every visitor and customer. This policy explains what personal information we collect, how we use it, and the choices you have."
+msgstr ""
+
+msgid "1. Information we collect"
+msgstr ""
+
+msgid "When you contact us, place an order, or use our services, we may collect: your name, company name, email address, phone number, shipping/billing address, payment information, and the content of your inquiries. We also collect technical data automatically (IP address, browser type, referring URL, pages visited, timestamps) for security and analytics."
+msgstr ""
+
+msgid "2. Purpose of use"
+msgstr ""
+
+msgid "Responding to inquiries and providing requested services"
+msgstr ""
+
+msgid "Processing orders, payments and shipments"
+msgstr ""
+
+msgid "Cross-border customs handling and partner communication"
+msgstr ""
+
+msgid "Customer support, after-sales service and dispute resolution"
+msgstr ""
+
+msgid "Service improvement, fraud prevention and legal compliance"
+msgstr ""
+
+msgid "Marketing communications, only with your prior consent"
+msgstr ""
+
+msgid "3. Disclosure to third parties"
+msgstr ""
+
+msgid "We do not sell your personal information. We may share necessary data with: payment processors, shipping/customs partners, manufacturer or marketplace partners required to fulfil your order, and authorities when required by law. All partners are bound by confidentiality obligations consistent with this policy."
+msgstr ""
+
+msgid "4. Outsourcing & sub-processors"
+msgstr ""
+
+msgid "We may entrust limited processing (hosting, email, analytics, customer-support tooling) to qualified vendors. We require these vendors to maintain security standards equivalent to ours."
+msgstr ""
+
+msgid "5. Cookies & analytics"
+msgstr ""
+
+msgid "We use cookies and similar technologies to remember your language preference, keep your session secure, and measure aggregate site usage. You can disable cookies in your browser, but some features (e.g. language switching) may not work correctly without them."
+msgstr ""
+
+msgid "6. Your rights"
+msgstr ""
+
+msgid "You may request access to, correction of, or deletion of your personal information at any time. You may also withdraw consent for marketing communications. To exercise these rights, contact us using the details below."
+msgstr ""
+
+msgid "7. Data retention & security"
+msgstr ""
+
+msgid "We retain personal information only for as long as necessary to provide our services and meet legal obligations. We apply reasonable administrative, technical and physical safeguards to protect your data."
+msgstr ""
+
+msgid "8. International transfer"
+msgstr ""
+
+msgid "As a cross-border eCommerce operator we transfer data internationally to fulfil shipments and provide support. We take steps to ensure such transfers are protected under contractual safeguards."
+msgstr ""
+
+msgid "9. Updates to this policy"
+msgstr ""
+
+msgid "We may revise this policy from time to time. The revised version will be posted on this page with an updated effective date."
+msgstr ""
+
+msgid "10. Contact"
+msgstr ""
+
+msgid "Effective date: %s"
+msgstr ""
+
+# === Careers ===
+msgid "Careers"
+msgstr ""
+
+msgid "Job opening"
+msgstr ""
+
+msgid "Add new job"
+msgstr ""
+
+msgid "Build the future of"
+msgstr ""
+
+msgid "cross-border commerce."
+msgstr ""
+
+msgid "We're a multilingual team in Fukuoka building the gateway for authentic Japanese products. If you care about craft, customers and culture — let's talk."
+msgstr ""
+
+msgid "No openings right now — please check back soon."
+msgstr ""
+
+msgid "View role"
+msgstr ""
+
+msgid "Don't see your role?"
+msgstr ""
+
+msgid "We're always open to exceptional people. Tell us how you can help us scale Japan to the world."
+msgstr ""
+
+msgid "Open application"
+msgstr ""
+
+msgid "Send us an open application"
+msgstr ""
+
+msgid "All openings"
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid "Employment type"
+msgstr ""
+
+msgid "Experience"
+msgstr ""
+
+msgid "Salary range"
+msgstr ""
+
+msgid "Posted"
+msgstr ""
+
+msgid "Apply by email"
+msgstr ""
+
+msgid "What you'll do"
+msgstr ""
+
+msgid "What we're looking for"
+msgstr ""
+
+msgid "Nice to have"
+msgstr ""
+
+msgid "What you'll get"
+msgstr ""
+
+msgid "How to apply"
+msgstr ""
+
+msgid "Send your CV (and a short note on why this role) to %s. We respond within one business day."
+msgstr ""
+
+msgid "See other openings"
+msgstr ""
+
+msgid "Application: %s"
+msgstr ""
+
+# === Life at Dogo ===
+msgid "Life at Dogo"
+msgstr ""
+
+msgid "A team in Fukuoka,"
+msgstr ""
+
+msgid "shipping joy worldwide."
+msgstr ""
+
+msgid "We work hard on the craft of cross-border eCommerce — and we have a lot of fun while doing it. Here's a look behind the curtain."
+msgstr ""
+
+msgid "Culture metrics"
+msgstr ""
+
+msgid "Moments we cherish"
+msgstr ""
+
+msgid "Nine windows into"
+msgstr ""
+
+msgid "how we work and play."
+msgstr ""
+
+msgid "A growing collection of glimpses from our HQ, our warehouse and the corners in between. New photos drop every quarter."
+msgstr ""
+
+msgid "Photos coming soon"
+msgstr ""
+
+msgid "Team voices"
+msgstr ""
+
+msgid "In their own words."
+msgstr ""
+
+msgid "Want to be in the next photo?"
+msgstr ""
+
+msgid "We're hiring."
+msgstr ""
+
+msgid "Browse open roles in Fukuoka and remote — we'd love to share a Friday lunch with you."
+msgstr ""
+
+msgid "See open roles"
+msgstr ""
+
+msgid "Send an open application"
+msgstr ""
+
+# === Partners ===
+msgid "Platforms and service providers"
+msgstr ""
+
+msgid "Trusted infrastructure"
+msgstr ""
+
+msgid "Platforms & service providers"
+msgstr ""
+
+msgid "we work with."
+msgstr ""
