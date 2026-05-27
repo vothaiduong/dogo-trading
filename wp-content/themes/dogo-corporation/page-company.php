@@ -1,13 +1,14 @@
 <?php
 /**
- * Template for the /company/ page.
- *
- * Auto-bound when a WP page with slug "company" exists.
+ * Template for the /company/ page (会社概要).
  *
  * @package DogoCorporation
  */
 
-$c = dogo_company_info();
+$c     = dogo_company_info();
+$lines = isset( $c['business_lines'] ) ? dogo_jl( $c['business_lines'] ) : array();
+$banks = isset( $c['banks'] ) ? $c['banks'] : array();
+
 get_header(); ?>
 
 <section class="section section--page section--company">
@@ -39,12 +40,14 @@ get_header(); ?>
 			</div>
 			<div class="profile__row">
 				<dt><?php esc_html_e( 'Corporate number', 'dogo-corporation' ); ?></dt>
-				<dd><?php echo esc_html( $c['reg_code'] ); ?></dd>
+				<dd><code class="profile__code"><?php echo esc_html( $c['reg_code'] ); ?></code></dd>
 			</div>
-			<div class="profile__row">
-				<dt><?php esc_html_e( 'Employees', 'dogo-corporation' ); ?></dt>
-				<dd><?php echo esc_html( $c['employees'] ); ?></dd>
-			</div>
+			<?php if ( ! empty( $c['license'] ) ) : ?>
+				<div class="profile__row">
+					<dt><?php esc_html_e( 'License & registration', 'dogo-corporation' ); ?></dt>
+					<dd><?php echo esc_html( $c['license'] ); ?></dd>
+				</div>
+			<?php endif; ?>
 			<div class="profile__row">
 				<dt><?php esc_html_e( 'Address', 'dogo-corporation' ); ?></dt>
 				<dd>
@@ -56,14 +59,30 @@ get_header(); ?>
 				<dt><?php esc_html_e( 'Business hours', 'dogo-corporation' ); ?></dt>
 				<dd><?php echo esc_html( $c['hours'] ); ?></dd>
 			</div>
-			<div class="profile__row">
-				<dt><?php esc_html_e( 'Lines of business', 'dogo-corporation' ); ?></dt>
-				<dd><?php echo esc_html( $c['business'] ); ?></dd>
-			</div>
-			<div class="profile__row">
-				<dt><?php esc_html_e( 'Phone', 'dogo-corporation' ); ?></dt>
-				<dd><?php echo esc_html( $c['phone'] ); ?></dd>
-			</div>
+			<?php if ( ! empty( $lines ) ) : ?>
+				<div class="profile__row">
+					<dt><?php esc_html_e( 'Lines of business', 'dogo-corporation' ); ?></dt>
+					<dd>
+						<ul class="profile__list">
+							<?php foreach ( $lines as $line ) : ?>
+								<li><?php echo esc_html( $line ); ?></li>
+							<?php endforeach; ?>
+						</ul>
+					</dd>
+				</div>
+			<?php endif; ?>
+			<?php if ( ! empty( $banks ) ) : ?>
+				<div class="profile__row">
+					<dt><?php esc_html_e( 'Trading banks', 'dogo-corporation' ); ?></dt>
+					<dd>
+						<ul class="profile__list">
+							<?php foreach ( $banks as $bank ) : ?>
+								<li><?php echo esc_html( $bank ); ?></li>
+							<?php endforeach; ?>
+						</ul>
+					</dd>
+				</div>
+			<?php endif; ?>
 			<div class="profile__row">
 				<dt><?php esc_html_e( 'Email', 'dogo-corporation' ); ?></dt>
 				<dd><a href="mailto:<?php echo esc_attr( $c['email'] ); ?>"><?php echo esc_html( $c['email'] ); ?></a></dd>
@@ -71,31 +90,6 @@ get_header(); ?>
 			<div class="profile__row">
 				<dt><?php esc_html_e( 'Website', 'dogo-corporation' ); ?></dt>
 				<dd><a href="<?php echo esc_url( $c['website'] ); ?>"><?php echo esc_html( $c['website'] ); ?></a></dd>
-			</div>
-		</dl>
-
-		<h2 class="profile__subhead"><?php esc_html_e( 'Bank account', 'dogo-corporation' ); ?></h2>
-		<p class="muted profile__bank-note"><?php esc_html_e( 'For wholesale and B2B partners — please contact us before sending payment.', 'dogo-corporation' ); ?></p>
-		<dl class="profile profile--bank">
-			<div class="profile__row">
-				<dt><?php esc_html_e( 'Bank', 'dogo-corporation' ); ?></dt>
-				<dd><?php echo esc_html( $c['bank']['name'] ); ?></dd>
-			</div>
-			<div class="profile__row">
-				<dt><?php esc_html_e( 'Branch', 'dogo-corporation' ); ?></dt>
-				<dd><?php echo esc_html( $c['bank']['branch'] ); ?></dd>
-			</div>
-			<div class="profile__row">
-				<dt><?php esc_html_e( 'Account type', 'dogo-corporation' ); ?></dt>
-				<dd><?php echo esc_html( $c['bank']['type'] ); ?></dd>
-			</div>
-			<div class="profile__row">
-				<dt><?php esc_html_e( 'Account number', 'dogo-corporation' ); ?></dt>
-				<dd><?php echo esc_html( $c['bank']['account'] ); ?></dd>
-			</div>
-			<div class="profile__row">
-				<dt><?php esc_html_e( 'Account holder', 'dogo-corporation' ); ?></dt>
-				<dd><?php echo esc_html( $c['bank']['holder'] ); ?></dd>
 			</div>
 		</dl>
 

@@ -9,7 +9,6 @@
 <head>
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-	<meta name="description" content="<?php echo esc_attr( get_bloginfo( 'description' ) ); ?>">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 	<script>
 	/* Theme bootstrap — runs before paint to avoid FOUC. Default = dark. */
@@ -69,7 +68,7 @@
 				<span class="theme-toggle__icon theme-toggle__icon--moon"><?php dogo_icon( 'moon' ); ?></span>
 			</button>
 			<?php dogo_language_switcher(); ?>
-			<a href="#contact" class="btn btn--primary btn--sm"><?php esc_html_e( 'Contact', 'dogo-corporation' ); ?> <?php dogo_icon( 'arrow-right' ); ?></a>
+			<a href="<?php echo esc_url( home_url( '/#contact' ) ); ?>" class="btn btn--primary btn--sm"><?php esc_html_e( 'Contact', 'dogo-corporation' ); ?> <?php dogo_icon( 'arrow-right' ); ?></a>
 			<button class="site-header__toggle" type="button" aria-controls="site-nav" aria-expanded="false" aria-label="<?php esc_attr_e( 'Open menu', 'dogo-corporation' ); ?>">
 				<?php dogo_icon( 'menu' ); ?>
 			</button>

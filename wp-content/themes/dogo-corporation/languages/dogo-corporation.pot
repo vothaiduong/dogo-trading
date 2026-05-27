@@ -394,6 +394,31 @@ msgstr ""
 msgid "Crafted for cross-border excellence."
 msgstr ""
 
+# === Footer (rebuilt) ===
+msgid "Footer navigation"
+msgstr ""
+
+msgid "All systems operational · shipping to 180+ countries"
+msgstr ""
+
+msgid "Resources"
+msgstr ""
+
+msgid "Connect"
+msgstr ""
+
+msgid "Hours"
+msgstr ""
+
+msgid "Mon–Fri 9:00–18:00 JST"
+msgstr ""
+
+msgid "812-0006 福岡県福岡市博多区豊 2-2-26"
+msgstr ""
+
+msgid "Crafted in Fukuoka"
+msgstr ""
+
 msgid "Back to top"
 msgstr ""
 
@@ -487,6 +512,12 @@ msgid "Weekdays 9:00 – 18:00 JST (closed weekends and Japanese national holida
 msgstr ""
 
 msgid "Cross-border eCommerce: collectibles, beauty, kitchenware and Japan purchase agency."
+msgstr ""
+
+msgid "License & registration"
+msgstr ""
+
+msgid "Trading banks"
 msgstr ""
 
 # === Privacy page ===
@@ -713,4 +744,32 @@ msgid "Platforms & service providers"
 msgstr ""
 
 msgid "we work with."
+msgstr ""
+
+# === SEO ===
+msgid "Cross-border eCommerce for authentic Japanese products. Collectibles, beauty, kitchenware and Japan purchase agency."
+msgstr ""
+
+msgid "Dogo Corporation — the global gateway to authentic Japanese products. Trusted by 1M+ customers across 180+ countries since 2020. Collectibles, beauty, kitchenware and Japan purchase agency."
+msgstr ""
+
+msgid "Dogo Corporation (株式会社 DOGO) — corporate profile, founded 2020, headquartered in Fukuoka. Cross-border eCommerce specialist serving 180+ countries."
+msgstr ""
+
+msgid "Dogo Corporation Privacy Policy — what personal information we collect, how we use it, and the rights you have as a customer."
+msgstr ""
+
+msgid "A look behind the curtain at Dogo Corporation — parties, team building, food, workshops and the everyday joy of our multilingual Fukuoka team."
+msgstr ""
+
+msgid "Open roles at Dogo Corporation in Fukuoka and remote. Build the future of cross-border eCommerce with a multilingual team."
+msgstr ""
+
+msgid "%1$s at Dogo Corporation — %2$s, %3$s. Apply now to join our cross-border eCommerce team."
+msgstr ""
+
+msgid "%1$s %2$s Authentic Japanese products, worldwide."
+msgstr ""
+
+msgid "Search: %1$s %2$s %3$s"
 msgstr ""

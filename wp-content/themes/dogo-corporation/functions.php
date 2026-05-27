@@ -9,7 +9,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'DOGO_THEME_VERSION', '1.6.1' );
+define( 'DOGO_THEME_VERSION', '2.2.0' );
 define( 'DOGO_THEME_DIR', get_template_directory() );
 define( 'DOGO_THEME_URI', get_template_directory_uri() );
 
@@ -18,3 +18,5 @@ require_once DOGO_THEME_DIR . '/inc/enqueue.php';
 require_once DOGO_THEME_DIR . '/inc/template-tags.php';
 require_once DOGO_THEME_DIR . '/inc/i18n.php';
 require_once DOGO_THEME_DIR . '/inc/post-types.php';
+require_once DOGO_THEME_DIR . '/inc/contact.php';
+require_once DOGO_THEME_DIR . '/inc/seo.php';

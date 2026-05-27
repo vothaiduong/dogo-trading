@@ -383,6 +383,31 @@ msgstr "Mọi quyền được bảo lưu."
 msgid "Crafted for cross-border excellence."
 msgstr "Thiết kế cho sự xuất sắc xuyên biên giới."
 
+# === Footer (rebuilt) ===
+msgid "Footer navigation"
+msgstr "Điều hướng chân trang"
+
+msgid "All systems operational · shipping to 180+ countries"
+msgstr "Mọi hệ thống vận hành ổn định · giao hàng đến hơn 180 quốc gia"
+
+msgid "Resources"
+msgstr "Tài nguyên"
+
+msgid "Connect"
+msgstr "Kết nối"
+
+msgid "Hours"
+msgstr "Giờ làm việc"
+
+msgid "Mon–Fri 9:00–18:00 JST"
+msgstr "Thứ 2–6, 9:00–18:00 JST"
+
+msgid "812-0006 福岡県福岡市博多区豊 2-2-26"
+msgstr "812-0006 Fukuoka, Hakata-ku, Yutaka 2-2-26"
+
+msgid "Crafted in Fukuoka"
+msgstr "Tạo nên tại Fukuoka, với cả trái tim"
+
 msgid "Back to top"
 msgstr "Về đầu trang"
 
@@ -476,6 +501,12 @@ msgstr "Thứ 2 – Thứ 6, 9:00 – 18:00 JST (nghỉ cuối tuần và ngày 
 
 msgid "Cross-border eCommerce: collectibles, beauty, kitchenware and Japan purchase agency."
 msgstr "Thương mại điện tử xuyên biên giới: sản phẩm sưu tầm, làm đẹp, đồ bếp và mua hộ Nhật Bản."
+
+msgid "License & registration"
+msgstr "Giấy phép & đăng ký"
+
+msgid "Trading banks"
+msgstr "Ngân hàng giao dịch"
 
 # === Chính sách bảo mật ===
 msgid "%s (\"the Company\") values the privacy of every visitor and customer. This policy explains what personal information we collect, how we use it, and the choices you have."
@@ -702,3 +733,31 @@ msgstr "Nền tảng & nhà cung cấp"
 
 msgid "we work with."
 msgstr "đồng hành cùng chúng tôi."
+
+# === SEO ===
+msgid "Cross-border eCommerce for authentic Japanese products. Collectibles, beauty, kitchenware and Japan purchase agency."
+msgstr "Thương mại điện tử xuyên biên giới cho hàng Nhật chính hãng. Sưu tầm, làm đẹp, đồ bếp và mua hộ Nhật Bản."
+
+msgid "Dogo Corporation — the global gateway to authentic Japanese products. Trusted by 1M+ customers across 180+ countries since 2020. Collectibles, beauty, kitchenware and Japan purchase agency."
+msgstr "Dogo Corporation — cánh cổng toàn cầu cho hàng Nhật chính hãng. Phục vụ hơn 1 triệu khách hàng tại hơn 180 quốc gia kể từ năm 2020. Sưu tầm, làm đẹp, đồ bếp và mua hộ."
+
+msgid "Dogo Corporation (株式会社 DOGO) — corporate profile, founded 2020, headquartered in Fukuoka. Cross-border eCommerce specialist serving 180+ countries."
+msgstr "Hồ sơ công ty Dogo Corporation (株式会社 DOGO) — thành lập 2020, trụ sở tại Fukuoka. Chuyên gia thương mại điện tử xuyên biên giới phục vụ hơn 180 quốc gia."
+
+msgid "Dogo Corporation Privacy Policy — what personal information we collect, how we use it, and the rights you have as a customer."
+msgstr "Chính sách bảo mật Dogo Corporation — các thông tin cá nhân chúng tôi thu thập, cách sử dụng và quyền lợi của bạn."
+
+msgid "A look behind the curtain at Dogo Corporation — parties, team building, food, workshops and the everyday joy of our multilingual Fukuoka team."
+msgstr "Cái nhìn hậu trường tại Dogo Corporation — tiệc, team building, đồ ăn, workshop và những niềm vui đời thường của team đa ngôn ngữ ở Fukuoka."
+
+msgid "Open roles at Dogo Corporation in Fukuoka and remote. Build the future of cross-border eCommerce with a multilingual team."
+msgstr "Các vị trí đang tuyển tại Dogo Corporation, Fukuoka và làm từ xa. Cùng team đa ngôn ngữ kiến tạo tương lai của thương mại xuyên biên giới."
+
+msgid "%1$s at Dogo Corporation — %2$s, %3$s. Apply now to join our cross-border eCommerce team."
+msgstr "%1$s tại Dogo Corporation — %2$s, %3$s. Ứng tuyển ngay để cùng team thương mại xuyên biên giới."
+
+msgid "%1$s %2$s Authentic Japanese products, worldwide."
+msgstr "%1$s %2$s Hàng Nhật chính hãng, gửi đi toàn thế giới."
+
+msgid "Search: %1$s %2$s %3$s"
+msgstr "Tìm kiếm: %1$s %2$s %3$s"

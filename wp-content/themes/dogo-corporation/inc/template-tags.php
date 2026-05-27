@@ -112,28 +112,44 @@ function dogo_services() {
  */
 function dogo_company_info() {
 	return apply_filters( 'dogo_company_info', array(
-		'name_ja'       => '株式会社 DOGO',
-		'name_en'       => 'Dogo Co., Ltd.',
-		'name_legal'    => 'Dogo Corporation',
-		'founded'       => '2020',
-		'capital'       => '— ' . __( 'TBD', 'dogo-corporation' ),
-		'reg_code'      => '— ' . __( 'TBD', 'dogo-corporation' ),  // 法人番号
-		'representative'=> '— ' . __( 'TBD', 'dogo-corporation' ),  // 代表者
-		'employees'     => '— ' . __( 'TBD', 'dogo-corporation' ),
-		'postal'        => '〒812-0006',
-		'address_ja'    => '福岡県福岡市博多区豊 2-2-26',
-		'address_en'    => '2-2-26 Yutaka, Hakata-ku, Fukuoka 812-0006, Japan',
-		'phone'         => '— ' . __( 'TBD', 'dogo-corporation' ),
-		'email'         => 'info@dogo-trading.com',
-		'website'       => 'https://dogo-trading.com',
-		'hours'         => __( 'Weekdays 9:00 – 18:00 JST (closed weekends and Japanese national holidays)', 'dogo-corporation' ),
-		'business'      => __( 'Cross-border eCommerce: collectibles, beauty, kitchenware and Japan purchase agency.', 'dogo-corporation' ),
-		'bank' => array(
-			'name'    => '— ' . __( 'TBD', 'dogo-corporation' ),  // e.g. みずほ銀行
-			'branch'  => '— ' . __( 'TBD', 'dogo-corporation' ),
-			'type'    => '— ' . __( 'TBD', 'dogo-corporation' ),  // 普通 / 当座
-			'account' => '— ' . __( 'TBD', 'dogo-corporation' ),
-			'holder'  => '— ' . __( 'TBD', 'dogo-corporation' ),
+		'name_ja'        => '株式会社 DOGO',
+		'name_en'        => 'Dogo Co., Ltd.',
+		'name_legal'     => 'Dogo Corporation',
+		'founded'        => '2020年12月02日',
+		'capital'        => '3,000 万円',
+		'reg_code'       => '4290001091213',
+		'representative' => '代表取締役 ヴォタイ ズォン',
+		'license'        => '古物商許可証 : 福岡県公安委員会 第 901072110037 号',
+		'postal'         => '〒812-0006',
+		'address_ja'     => '福岡県福岡市博多区豊 2-2-26',
+		'address_en'     => '2-2-26 Yutaka, Hakata-ku, Fukuoka 812-0006, Japan',
+		'email'          => 'info@dogo-trading.com',
+		'website'        => 'https://dogo-trading.com',
+		'hours'          => __( 'Weekdays 9:00 – 18:00 JST (closed weekends and Japanese national holidays)', 'dogo-corporation' ),
+		'business_lines' => array(
+			'ja' => array(
+				'購入代行事業',
+				'クロスボーダー EC 事業（越境 EC）',
+				'各種貿易関連業務',
+				'海外向け商品の企画・開発・製造・販売',
+			),
+			'en' => array(
+				'Purchase agency services',
+				'Cross-border eCommerce',
+				'Various trade-related operations',
+				'Planning, development, manufacturing and sale of products for overseas markets',
+			),
+			'vi' => array(
+				'Dịch vụ mua hộ',
+				'Thương mại điện tử xuyên biên giới',
+				'Các hoạt động liên quan đến thương mại',
+				'Lên ý tưởng, phát triển, sản xuất và phân phối sản phẩm cho thị trường nước ngoài',
+			),
+		),
+		'banks'          => array(
+			'福岡銀行（Fukuoka Bank）',
+			'PayPay 銀行（PayPay Bank）',
+			'GMO あおぞらネット銀行（GMO Aozora Net Bank）',
 		),
 	) );
 }

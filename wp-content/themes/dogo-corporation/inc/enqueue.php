@@ -42,6 +42,10 @@ function dogo_enqueue_assets() {
 		'nonce'   => wp_create_nonce( 'dogo_nonce' ),
 		'home'    => home_url( '/' ),
 	) );
+
+	// Turnstile is NOT enqueued upfront. main.js lazy-loads it via IntersectionObserver
+	// when the contact form approaches the viewport — saves ~80 KB JS + a behavioural
+	// fingerprinting pass on initial mobile scroll.
 }
 
 add_action( 'wp_head', 'dogo_preconnect', 1 );

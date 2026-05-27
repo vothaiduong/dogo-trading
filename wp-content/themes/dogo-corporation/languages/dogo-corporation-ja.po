@@ -392,6 +392,31 @@ msgstr "All rights reserved."
 msgid "Crafted for cross-border excellence."
 msgstr "越境 EC の卓越のために。"
 
+# === Footer (rebuilt) ===
+msgid "Footer navigation"
+msgstr "フッターナビゲーション"
+
+msgid "All systems operational · shipping to 180+ countries"
+msgstr "全システム稼働中 ・ 180 か国以上へ発送中"
+
+msgid "Resources"
+msgstr "リソース"
+
+msgid "Connect"
+msgstr "つながる"
+
+msgid "Hours"
+msgstr "営業時間"
+
+msgid "Mon–Fri 9:00–18:00 JST"
+msgstr "平日 9:00–18:00 JST"
+
+msgid "812-0006 福岡県福岡市博多区豊 2-2-26"
+msgstr "〒812-0006 福岡県福岡市博多区豊 2-2-26"
+
+msgid "Crafted in Fukuoka"
+msgstr "福岡から、心を込めて"
+
 msgid "Back to top"
 msgstr "トップへ戻る"
 
@@ -486,6 +511,12 @@ msgstr "平日 9:00 〜 18:00 JST（土日祝休）"
 
 msgid "Cross-border eCommerce: collectibles, beauty, kitchenware and Japan purchase agency."
 msgstr "越境 EC 事業:コレクティブル、ビューティー、キッチンウェア、購入代行。"
+
+msgid "License & registration"
+msgstr "免許・資格"
+
+msgid "Trading banks"
+msgstr "取引銀行"
 
 # === プライバシーポリシー ===
 msgid "%s (\"the Company\") values the privacy of every visitor and customer. This policy explains what personal information we collect, how we use it, and the choices you have."
@@ -712,3 +743,31 @@ msgstr "ともに歩む"
 
 msgid "we work with."
 msgstr "プラットフォーム・サービスパートナー。"
+
+# === SEO ===
+msgid "Cross-border eCommerce for authentic Japanese products. Collectibles, beauty, kitchenware and Japan purchase agency."
+msgstr "本物の日本製品を世界へ届ける越境 EC。コレクティブル、ビューティー、キッチンウェア、購入代行。"
+
+msgid "Dogo Corporation — the global gateway to authentic Japanese products. Trusted by 1M+ customers across 180+ countries since 2020. Collectibles, beauty, kitchenware and Japan purchase agency."
+msgstr "Dogo Corporation — 本物の日本製品を世界へ届けるグローバルゲートウェイ。2020 年の創業以来、180 か国以上のお客様 100 万人にご利用いただいています。コレクティブル、ビューティー、キッチンウェア、購入代行。"
+
+msgid "Dogo Corporation (株式会社 DOGO) — corporate profile, founded 2020, headquartered in Fukuoka. Cross-border eCommerce specialist serving 180+ countries."
+msgstr "株式会社 DOGO の会社概要。2020 年創業、本社は福岡。180 か国以上を結ぶ越境 EC スペシャリスト。"
+
+msgid "Dogo Corporation Privacy Policy — what personal information we collect, how we use it, and the rights you have as a customer."
+msgstr "Dogo Corporation のプライバシーポリシー。取得する個人情報の内容、利用目的、お客様の権利についてご説明します。"
+
+msgid "A look behind the curtain at Dogo Corporation — parties, team building, food, workshops and the everyday joy of our multilingual Fukuoka team."
+msgstr "Dogo Corporation の舞台裏。福岡の多言語チームによるパーティー、チームビルディング、ランチ、ワークショップ、そして日々のよろこび。"
+
+msgid "Open roles at Dogo Corporation in Fukuoka and remote. Build the future of cross-border eCommerce with a multilingual team."
+msgstr "Dogo Corporation の福岡本社・リモート募集職種。多言語チームと一緒に、越境 EC の未来をつくりましょう。"
+
+msgid "%1$s at Dogo Corporation — %2$s, %3$s. Apply now to join our cross-border eCommerce team."
+msgstr "%1$s — %2$s、%3$s。Dogo Corporation の越境 EC チームへぜひご応募ください。"
+
+msgid "%1$s %2$s Authentic Japanese products, worldwide."
+msgstr "%1$s %2$s 本物の日本製品を、世界へ。"
+
+msgid "Search: %1$s %2$s %3$s"
+msgstr "検索:%1$s %2$s %3$s"
