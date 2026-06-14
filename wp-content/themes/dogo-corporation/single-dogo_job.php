@@ -46,7 +46,10 @@ while ( have_posts() ) :
 				<div><dt><?php esc_html_e( 'Location', 'dogo-corporation' ); ?></dt><dd><?php echo esc_html( dogo_jl( $job['location'] ) ); ?></dd></div>
 				<div><dt><?php esc_html_e( 'Employment type', 'dogo-corporation' ); ?></dt><dd><?php echo esc_html( dogo_jl( $job['type'] ) ); ?></dd></div>
 				<div><dt><?php esc_html_e( 'Experience', 'dogo-corporation' ); ?></dt><dd><?php echo esc_html( dogo_jl( $job['level'] ) ); ?></dd></div>
-				<div><dt><?php esc_html_e( 'Salary range', 'dogo-corporation' ); ?></dt><dd><?php echo esc_html( $job['salary'] ); ?></dd></div>
+				<div><dt><?php esc_html_e( 'Salary range', 'dogo-corporation' ); ?></dt><dd><?php echo esc_html( dogo_jl( $job["salary"] ) ); ?></dd></div>
+				<?php if ( ! empty( $job['phone'] ) ) : ?>
+					<div><dt><?php esc_html_e( 'Phone', 'dogo-corporation' ); ?></dt><dd><a href="tel:<?php echo esc_attr( preg_replace( '/[^0-9+]/', '', $job['phone'] ) ); ?>"><?php echo esc_html( $job['phone'] ); ?></a></dd></div>
+				<?php endif; ?>
 				<div><dt><?php esc_html_e( 'Posted', 'dogo-corporation' ); ?></dt><dd><?php echo esc_html( mysql2date( get_option( 'date_format' ), $job['posted'] ) ); ?></dd></div>
 			</dl>
 
@@ -96,6 +99,19 @@ while ( have_posts() ) :
 				);
 				?>
 			</p>
+			<?php if ( ! empty( $job['phone'] ) ) :
+				$tel = preg_replace( '/[^0-9+]/', '', $job['phone'] );
+			?>
+			<p>
+				<?php
+				printf(
+					/* translators: %s = phone link */
+					esc_html__( 'Prefer to call? Reach us at %s.', 'dogo-corporation' ),
+					'<a href="tel:' . esc_attr( $tel ) . '">' . esc_html( $job['phone'] ) . '</a>'
+				);
+				?>
+			</p>
+			<?php endif; ?>
 		</article>
 
 		<div class="job-foot">

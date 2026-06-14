@@ -761,3 +761,6 @@ msgstr "%1$s %2$s Hàng Nhật chính hãng, gửi đi toàn thế giới."
 
 msgid "Search: %1$s %2$s %3$s"
 msgstr "Tìm kiếm: %1$s %2$s %3$s"
+
+msgid "Prefer to call? Reach us at %s."
+msgstr "Muốn gọi điện? Hãy liên hệ %s."

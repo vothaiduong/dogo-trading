@@ -88,14 +88,112 @@ function dogo_jl( $field ) {
 }
 
 /**
- * Sample job openings — 3-language native content.
+ * Job openings — 3-language native content.
  * Edit this array to add / remove / re-write postings.
+ *
+ * Salary is a multilang array — single string would force one locale on all viewers.
  */
 function dogo_job_seeds() {
 	return apply_filters( 'dogo_job_seeds', array(
 
 		array(
-			'slug'   => 'buyer-figurines',
+			'slug'   => 'packing-staff',
+			'posted' => '2026-05-03',
+			'phone'  => '070-8486-3086',
+			'salary' => array(
+				'ja' => '時給 ¥1,057〜（慣れたら 3 か月以内に昇給）',
+				'en' => '¥1,057 / hour to start · raise within 3 months once experienced',
+				'vi' => '¥1.057/giờ · tăng lương trong 3 tháng khi đã quen việc',
+			),
+			'department' => array( 'ja' => '物流オペレーション', 'en' => 'Logistics Operations', 'vi' => 'Vận hành Logistics' ),
+			'location'   => array( 'ja' => '福岡本社 ／ 倉庫', 'en' => 'Fukuoka HQ · warehouse', 'vi' => 'Trụ sở Fukuoka · kho' ),
+			'type'       => array( 'ja' => 'パート ／ アルバイト', 'en' => 'Part-time', 'vi' => 'Bán thời gian' ),
+			'level'      => array( 'ja' => '未経験 OK', 'en' => 'Entry friendly — no experience needed', 'vi' => 'Không yêu cầu kinh nghiệm' ),
+			'title' => array(
+				'ja' => '梱包スタッフ（Packing Staff）',
+				'en' => 'Packing Staff — Fukuoka Warehouse',
+				'vi' => 'Nhân viên Đóng gói — Kho Fukuoka',
+			),
+			'intro' => array(
+				'ja' => '福岡本社の倉庫で、世界中のお客様へ本物の日本製品を丁寧にお届けする梱包スタッフを募集しています。未経験 OK、9:00–18:00 のうち週 3 日・1 日 4 時間からシフト調整可能です。',
+				'en' => 'Join our Fukuoka warehouse as packing staff — help us ship authentic Japanese products to customers worldwide. No experience needed, flexible shifts (3 days / week, 4 hrs / day minimum within 9:00–18:00).',
+				'vi' => 'Tham gia kho Fukuoka với vai trò nhân viên đóng gói — giúp chúng tôi gửi hàng Nhật chính hãng đến khách hàng khắp thế giới. Không cần kinh nghiệm, ca làm linh hoạt (từ 3 ngày/tuần, 4 giờ/ngày, trong khung 9:00–18:00).',
+			),
+			'responsibilities' => array(
+				'ja' => array(
+					'注文に応じた商品のピッキングと検品',
+					'丁寧な梱包と配送ラベルの貼付',
+					'倉庫内在庫の整理整頓',
+					'出荷状況の記録とチームとの連携',
+				),
+				'en' => array(
+					'Pick and verify items against customer orders',
+					'Careful packing and applying shipping labels',
+					'Keep warehouse stock organized',
+					'Log outbound shipments and coordinate with the team',
+				),
+				'vi' => array(
+					'Lấy hàng và kiểm tra theo đơn của khách',
+					'Đóng gói cẩn thận và dán nhãn vận chuyển',
+					'Sắp xếp tồn kho gọn gàng',
+					'Ghi nhận tình trạng xuất hàng và phối hợp với team',
+				),
+			),
+			'requirements' => array(
+				'ja' => array(
+					'体を動かす作業が苦にならない方',
+					'細かい作業を丁寧にこなせる方',
+					'登録したシフトに沿って出勤できる方',
+				),
+				'en' => array(
+					'Comfortable with light physical work',
+					'Attentive to detail and quality',
+					'Reliable attendance for the shifts you commit to',
+				),
+				'vi' => array(
+					'Sức khỏe tốt, làm được công việc tay chân nhẹ',
+					'Cẩn thận, tỉ mỉ trong từng chi tiết',
+					'Đi làm đúng theo ca đã đăng ký',
+				),
+			),
+			'nice' => array(
+				'ja' => array(
+					'EC ・物流業務の経験',
+					'梱包作業の経験',
+					'軽い荷物の取り扱いに慣れている方',
+				),
+				'en' => array(
+					'Experience in eCommerce or logistics',
+					'Packing work experience',
+					'Comfortable lifting light boxes',
+				),
+				'vi' => array(
+					'Kinh nghiệm eCommerce hoặc logistics',
+					'Kinh nghiệm làm việc đóng gói',
+					'Quen với việc nâng đồ nhẹ',
+				),
+			),
+			'benefits' => array(
+				'ja' => array(
+					'時給 ¥1,057〜、慣れたら 3 か月以内に昇給',
+					'シフト柔軟：9:00–18:00 のうち週 3 日・1 日 4 時間〜 OK',
+				),
+				'en' => array(
+					'¥1,057 / hour to start, raise within 3 months once experienced',
+					'Flexible shifts: 9:00–18:00, 3 days/week, 4 hrs/day minimum',
+				),
+				'vi' => array(
+					'¥1.057/giờ khởi điểm, tăng lương trong 3 tháng khi đã quen việc',
+					'Ca linh hoạt: 9:00–18:00, từ 3 ngày/tuần, 4 giờ/ngày trở lên',
+				),
+			),
+		),
+		/* === Legacy seeds (5 roles) removed 2026-05-03 — replaced by the single packing role above.
+		 * Restore from git history (commit 304411c or earlier) if you want them back.
+		 */
+		/* removed legacy block start
+		array(
+			'slug'   => 'buyer-figurines-archived',
 			'posted' => '2026-04-22',
 			'salary' => '¥4,000,000 – ¥6,000,000 / yr',
 			'department' => array( 'ja' => '仕入・MD', 'en' => 'Merchandising', 'vi' => 'Quản lý hàng hóa' ),
@@ -587,6 +685,7 @@ function dogo_job_seeds() {
 				),
 			),
 		),
+		end legacy block */
 
 	) );
 }
