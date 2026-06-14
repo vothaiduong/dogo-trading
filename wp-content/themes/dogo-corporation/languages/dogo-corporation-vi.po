@@ -764,3 +764,6 @@ msgstr "Tìm kiếm: %1$s %2$s %3$s"
 
 msgid "Prefer to call? Reach us at %s."
 msgstr "Muốn gọi điện? Hãy liên hệ %s."
+
+msgid "Who thrives here"
+msgstr "Mẫu người phù hợp"

@@ -774,3 +774,6 @@ msgstr "検索:%1$s %2$s %3$s"
 
 msgid "Prefer to call? Reach us at %s."
 msgstr "お電話でのご応募も歓迎です。%s までお気軽にどうぞ。"
+
+msgid "Who thrives here"
+msgstr "求める人物像"

@@ -82,6 +82,15 @@ while ( have_posts() ) :
 				<?php endforeach; ?>
 			</ul>
 
+			<?php if ( ! empty( $job['ideal'] ) ) : ?>
+			<h2><?php esc_html_e( 'Who thrives here', 'dogo-corporation' ); ?></h2>
+			<ul>
+				<?php foreach ( dogo_jl( $job['ideal'] ) as $item ) : ?>
+					<li><?php echo esc_html( $item ); ?></li>
+				<?php endforeach; ?>
+			</ul>
+			<?php endif; ?>
+
 			<h2><?php esc_html_e( 'What you\'ll get', 'dogo-corporation' ); ?></h2>
 			<ul>
 				<?php foreach ( dogo_jl( $job['benefits'] ) as $item ) : ?>
