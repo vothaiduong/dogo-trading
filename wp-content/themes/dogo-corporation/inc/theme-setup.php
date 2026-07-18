@@ -79,9 +79,10 @@ function dogo_ensure_static_pages() {
 		return;
 	}
 	$pages = array(
-		'company' => __( 'Company profile', 'dogo-corporation' ),
-		'privacy' => __( 'Privacy Policy', 'dogo-corporation' ),
-		'life'    => __( 'Life at Dogo', 'dogo-corporation' ),
+		'company'                     => __( 'Company profile', 'dogo-corporation' ),
+		'privacy'                     => __( 'Privacy Policy', 'dogo-corporation' ),
+		'life'                        => __( 'Life at Dogo', 'dogo-corporation' ),
+		'operations-data-integration' => 'Operations Data Integration',
 	);
 	foreach ( $pages as $slug => $title ) {
 		if ( get_page_by_path( $slug ) ) {

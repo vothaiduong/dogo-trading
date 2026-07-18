@@ -9,7 +9,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'DOGO_THEME_VERSION', '2.6.0' );
+define( 'DOGO_THEME_VERSION', '2.7.0' );
 define( 'DOGO_THEME_DIR', get_template_directory() );
 define( 'DOGO_THEME_URI', get_template_directory_uri() );
 

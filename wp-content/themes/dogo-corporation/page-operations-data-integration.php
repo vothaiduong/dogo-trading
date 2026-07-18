@@ -1,23 +1,26 @@
 <?php
 /**
- * "Dogo Operations Data Integration" disclosure — required for Google OAuth
- * app verification (homepage must describe the app, its data use, and link
- * to the privacy policy, visible without login).
+ * Template for /operations-data-integration/ — Google OAuth app disclosure.
+ *
+ * Auto-bound when a WP page with slug "operations-data-integration" exists
+ * (created by dogo_ensure_static_pages()).
  *
  * Kept in English intentionally: Google's verification reviewers read the
  * page in English, and the text must match the consent-screen submission.
  *
  * @package DogoCorporation
  */
-?>
-<section class="section section--oauth-app" id="operations-data-integration">
+
+get_header(); ?>
+
+<section class="section section--page section--oauth-app">
 	<div class="container container--narrow">
 		<header class="section__head">
 			<span class="eyebrow">Internal application disclosure</span>
-			<h2 class="section__title">About Dogo Operations <span class="gradient-text">Data Integration</span></h2>
+			<h1 class="section__title">About Dogo Operations <span class="gradient-text">Data Integration</span></h1>
 		</header>
 
-		<div class="prose oauth-app__body">
+		<article class="prose oauth-app__body">
 			<p>
 				Dogo Corporation is a cross-border e-commerce company that connects customers worldwide
 				with authentic Japanese products. We operate services for collectibles and figures,
@@ -50,6 +53,8 @@
 				For questions about this application or our data practices, please contact us at
 				<a href="mailto:info@dogo-trading.com">info@dogo-trading.com</a>.
 			</p>
-		</div>
+		</article>
 	</div>
 </section>
+
+<?php get_footer();

@@ -54,6 +54,7 @@ $dogo_year = date( 'Y' );
 					<h4 class="site-footer__title"><?php esc_html_e( 'Resources', 'dogo-corporation' ); ?></h4>
 					<ul>
 						<li><a href="<?php echo esc_url( home_url( '/privacy/' ) ); ?>"><?php esc_html_e( 'Privacy Policy', 'dogo-corporation' ); ?></a></li>
+					<li><a href="<?php echo esc_url( home_url( '/operations-data-integration/' ) ); ?>">Operations Data Integration</a></li>
 						<li><a href="<?php echo esc_url( home_url( '/#contact' ) ); ?>"><?php esc_html_e( 'Contact', 'dogo-corporation' ); ?></a></li>
 					</ul>
 				</div>
