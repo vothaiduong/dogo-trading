@@ -779,3 +779,25 @@ msgstr ""
 
 msgid "Who thrives here"
 msgstr ""
+
+# === Operations Data Integration ===
+msgid "Internal application disclosure"
+msgstr ""
+
+msgid "About Dogo Operations Data Integration"
+msgstr ""
+
+msgid "Dogo Corporation is a cross-border e-commerce company that connects customers worldwide with authentic Japanese products. We operate services for collectibles and figures, beauty and personal care products, kitchenware, and proxy purchasing from Japanese marketplaces. Our operations include product sourcing, authenticity checks, inventory and order processing, international logistics, customer support, and compliance for deliveries to more than 180 countries."
+msgstr ""
+
+msgid "%s is an internal business automation application used only by authorized Dogo Corporation personnel. It supports the company's operational reporting and data management by securely transferring and organizing business data from Dogo's internal systems into Google BigQuery."
+msgstr ""
+
+msgid "The application uses Google BigQuery solely to run data queries and create, update, or maintain datasets and tables required for internal reporting, analytics, operational monitoring, and business planning. It does not provide a public consumer-facing service, access personal Google content such as Gmail, Drive, Contacts, or Calendar, or share Google user data with third parties."
+msgstr ""
+
+msgid "Access to Google services is limited to the minimum permissions necessary for the application to perform these internal BigQuery data-processing functions. Data is accessed and used only for Dogo Corporation's legitimate business operations and is handled in accordance with our %s."
+msgstr ""
+
+msgid "For questions about this application or our data practices, please contact us at %s."
+msgstr ""

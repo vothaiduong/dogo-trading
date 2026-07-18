@@ -777,3 +777,25 @@ msgstr "お電話でのご応募も歓迎です。%s までお気軽にどうぞ
 
 msgid "Who thrives here"
 msgstr "求める人物像"
+
+# === Operations Data Integration ===
+msgid "Internal application disclosure"
+msgstr "社内アプリケーションに関する開示"
+
+msgid "About Dogo Operations Data Integration"
+msgstr "Dogo Operations Data Integration について"
+
+msgid "Dogo Corporation is a cross-border e-commerce company that connects customers worldwide with authentic Japanese products. We operate services for collectibles and figures, beauty and personal care products, kitchenware, and proxy purchasing from Japanese marketplaces. Our operations include product sourcing, authenticity checks, inventory and order processing, international logistics, customer support, and compliance for deliveries to more than 180 countries."
+msgstr "Dogo Corporation は、世界中のお客様と本物の日本製品をつなぐ越境 EC 企業です。コレクティブル・フィギュア、ビューティー・パーソナルケア、キッチンウェア、そして日本のマーケットプレイスからの購入代行サービスを展開しています。商品の調達、真贋確認、在庫・注文処理、国際物流、カスタマーサポート、さらに 180 か国以上への配送に関わるコンプライアンス対応までを担っています。"
+
+msgid "%s is an internal business automation application used only by authorized Dogo Corporation personnel. It supports the company's operational reporting and data management by securely transferring and organizing business data from Dogo's internal systems into Google BigQuery."
+msgstr "%s は、株式会社 DOGO の権限を持つ担当者のみが使用する社内業務自動化アプリケーションです。Dogo の社内システムから Google BigQuery へ業務データを安全に転送・整理することで、社内のレポーティングとデータ管理を支えています。"
+
+msgid "The application uses Google BigQuery solely to run data queries and create, update, or maintain datasets and tables required for internal reporting, analytics, operational monitoring, and business planning. It does not provide a public consumer-facing service, access personal Google content such as Gmail, Drive, Contacts, or Calendar, or share Google user data with third parties."
+msgstr "本アプリケーションが Google BigQuery を使用するのは、社内レポーティング、分析、運用モニタリング、事業計画に必要なデータクエリの実行と、データセット・テーブルの作成・更新・管理のみです。一般消費者向けサービスの提供、Gmail・ドライブ・連絡先・カレンダーなどの個人の Google コンテンツへのアクセス、Google ユーザーデータの第三者への共有は一切行いません。"
+
+msgid "Access to Google services is limited to the minimum permissions necessary for the application to perform these internal BigQuery data-processing functions. Data is accessed and used only for Dogo Corporation's legitimate business operations and is handled in accordance with our %s."
+msgstr "Google サービスへのアクセスは、これらの社内 BigQuery データ処理機能の実行に必要な最小限の権限に限定されています。データは株式会社 DOGO の正当な事業運営のためにのみアクセス・使用され、当社の%sに従って取り扱われます。"
+
+msgid "For questions about this application or our data practices, please contact us at %s."
+msgstr "本アプリケーションおよび当社のデータの取り扱いに関するご質問は、%s までお問い合わせください。"

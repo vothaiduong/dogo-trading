@@ -767,3 +767,25 @@ msgstr "Muốn gọi điện? Hãy liên hệ %s."
 
 msgid "Who thrives here"
 msgstr "Mẫu người phù hợp"
+
+# === Operations Data Integration ===
+msgid "Internal application disclosure"
+msgstr "Công bố về ứng dụng nội bộ"
+
+msgid "About Dogo Operations Data Integration"
+msgstr "Về Dogo Operations Data Integration"
+
+msgid "Dogo Corporation is a cross-border e-commerce company that connects customers worldwide with authentic Japanese products. We operate services for collectibles and figures, beauty and personal care products, kitchenware, and proxy purchasing from Japanese marketplaces. Our operations include product sourcing, authenticity checks, inventory and order processing, international logistics, customer support, and compliance for deliveries to more than 180 countries."
+msgstr "Dogo Corporation là công ty thương mại điện tử xuyên biên giới, kết nối khách hàng toàn cầu với các sản phẩm Nhật Bản chính hãng. Chúng tôi vận hành các dịch vụ về sản phẩm sưu tầm và figure, làm đẹp và chăm sóc cá nhân, đồ dùng nhà bếp, cùng dịch vụ mua hộ từ các sàn thương mại Nhật Bản. Hoạt động của chúng tôi bao gồm tìm nguồn hàng, xác thực sản phẩm, xử lý tồn kho và đơn hàng, logistics quốc tế, hỗ trợ khách hàng và tuân thủ quy định giao hàng đến hơn 180 quốc gia."
+
+msgid "%s is an internal business automation application used only by authorized Dogo Corporation personnel. It supports the company's operational reporting and data management by securely transferring and organizing business data from Dogo's internal systems into Google BigQuery."
+msgstr "%s là ứng dụng tự động hoá nghiệp vụ nội bộ, chỉ dành cho nhân sự được uỷ quyền của Dogo Corporation. Ứng dụng hỗ trợ báo cáo vận hành và quản lý dữ liệu của công ty bằng cách chuyển và tổ chức dữ liệu kinh doanh từ các hệ thống nội bộ của Dogo vào Google BigQuery một cách an toàn."
+
+msgid "The application uses Google BigQuery solely to run data queries and create, update, or maintain datasets and tables required for internal reporting, analytics, operational monitoring, and business planning. It does not provide a public consumer-facing service, access personal Google content such as Gmail, Drive, Contacts, or Calendar, or share Google user data with third parties."
+msgstr "Ứng dụng chỉ sử dụng Google BigQuery để chạy truy vấn dữ liệu và tạo, cập nhật hoặc duy trì các dataset và bảng cần thiết cho báo cáo nội bộ, phân tích, giám sát vận hành và hoạch định kinh doanh. Ứng dụng không cung cấp dịch vụ cho người dùng phổ thông, không truy cập nội dung Google cá nhân như Gmail, Drive, Danh bạ hay Lịch, và không chia sẻ dữ liệu người dùng Google với bên thứ ba."
+
+msgid "Access to Google services is limited to the minimum permissions necessary for the application to perform these internal BigQuery data-processing functions. Data is accessed and used only for Dogo Corporation's legitimate business operations and is handled in accordance with our %s."
+msgstr "Quyền truy cập vào các dịch vụ Google được giới hạn ở mức tối thiểu cần thiết để ứng dụng thực hiện các chức năng xử lý dữ liệu BigQuery nội bộ này. Dữ liệu chỉ được truy cập và sử dụng cho hoạt động kinh doanh hợp pháp của Dogo Corporation và được xử lý theo %s của chúng tôi."
+
+msgid "For questions about this application or our data practices, please contact us at %s."
+msgstr "Nếu có câu hỏi về ứng dụng này hoặc cách chúng tôi xử lý dữ liệu, vui lòng liên hệ %s."
