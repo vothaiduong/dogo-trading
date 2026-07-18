@@ -1800,6 +1800,20 @@ ul, ol { margin: 0; padding: 0; list-style: none; }
   .voice { padding: 24px; }
 }
 
+/* ----- 15f. OAuth app disclosure ---------------------- */
+.section--oauth-app {
+  padding-top: 32px;
+  padding-bottom: 96px;
+}
+.section--oauth-app .section__head { margin-bottom: 32px; }
+.section--oauth-app .section__title { font-size: clamp(28px, 3.4vw, 40px); }
+.oauth-app__body {
+  font-size: 16px;
+  border-top: 1px solid var(--border-10);
+  padding-top: 28px;
+}
+.oauth-app__body p { margin-bottom: 16px; }
+
 /* ----- 16. Footer (rebuilt) ---------------------------- */
 .site-footer {
   position: relative;
